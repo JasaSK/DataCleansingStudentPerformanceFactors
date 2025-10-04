@@ -32,4 +32,4 @@ Repository ini berisi Dataset asli berisi sekitar 6.000 baris, tetapi untuk lati
 ## Cara Menggunakan
 1. Clone repository ini:  
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/JasaSK/DataCleansingStudentPerformanceFactors.git

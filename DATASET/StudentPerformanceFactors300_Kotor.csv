@@ -1,0 +1,301 @@
+﻿Jam_Belajar,Kehadiran,Keterlibatan_Orang_Tua,Akses_Sumber_Daya,Kegiatan_Ekstrakurikuler,Jam_Tidur,Nilai_Sebelumnya,Tingkat_Motivasi,Akses_Internet,Sesi_Bimbingan,Pendapatan_Keluarga,Kualitas_Guru,Jenis_Sekolah,Pengaruh_Teman,Aktivitas_Fisik,Kesulitan_Belajar,Pendidikan_Orang_Tua,Jarak_dari_Rumah,Jenis_Kelamin,Nilai_Ujian
+23,84,Rendah,Tinggi,Tidak,7,73,Rendah,Ya,0,Rendah,Sedang,Negeri,Positif,3,Tidak,SMA,Dekat,Laki-laki,67
+19,64,Rendah,Sedang,Tidak,8,59,Rendah,Ya,2,Sedang,Sedang,Negeri,Negatif,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,61
+24,98,Sedang,Sedang,Ya,7,91,Sedang,Ya,2,Sedang,Sedang,Negeri,,4,Tidak,Pascasarjana,Dekat,Laki-laki,74
+29,89,Rendah,,Ya,8,98,Sedang,Ya,1,Sedang,Sedang,Negeri,Negatif,4,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,71
+19,92,Sedang,Sedang,Ya,6,65,Sedang,Ya,3,Sedang,Tinggi,Negeri,Netral,4,Tidak,Perguruan Tinggi,Dekat,Perempuan,
+200,88,Sedang,Sedang,Ya,8,89,,Ya,3,Sedang,,Negeri,Positif,3,Tidak,,,Laki-laki,71
+29,84,Sedang,Rendah,Ya,7,68,Rendah,Ya,1,Rendah,Sedang,Swasta,Netral,2,Tidak,High School,Sedang/Jarak Sedang,M@le,67
+25,78,Rendah,Tinggi,Ya,6,50,Sedang,Ya,1,Tinggi,Tinggi,Negeri,negative,2,Tidak,High School,Jauh,MALE,66
+17,,Sedang,Tinggi,Tidak,6,80,Tinggi,Ya,0,Sedang,,Swasta,Netral,1,Tidak,college,Dekat,Laki-laki,69
+23,98,Sedang,Sedang,Ya,8,71,,Ya,0,Tinggi,,Negeri,Positif,5,Tidak,,,Laki-laki,72
+17,80,Rendah,Tinggi,Tidak,-3,88,Sedang,Tidak,4,Sedang,Tinggi,Swasta,neutral,4,Tidak,COLLEGE,Moder@te,Laki-laki,68
+17,97,Sedang,Tinggi,Ya,6,87,Rendah,Ya,2,Rendah,Tinggi,Swasta,Netral,2,Tidak,High School,Dekat,Laki-laki,71
+21,,Sedang,Sedang,Ya,8,97,Rendah,Ya,2,Sedang,Sedang,Negeri,Positif,4,Tidak,,Dekat,Laki-laki,70
+9,82,Sedang,Sedang,Ya,8,72,Sedang,Ya,2,Sedang,Sedang,Priv@te,Positif,3,Tidak,Pascasarjana,Dekat,Laki-laki,66
+10,,Sedang,Tinggi,Ya,8,74,Sedang,,1,,Sedang,Priv@te,NEUTRAL,4,Tidak,POSTGRADUATE,Dekat,Laki-laki,65
+17,68,Sedang,Sedang,Tidak,8,70,Sedang,Ya,2,Sedang,Sedang,Swasta,Positif,4,Tidak,HIGH SCHOOL,Dekat,Laki2,
+14,60,Sedang,Rendah,Ya,10,65,Rendah,Ya,0,,Sedang,Swasta,positive,3,,Perguruan Tinggi,Dekat,M@le,60
+22,70,Rendah,Sedang,Ya,6,82,Sedang,Ya,1,Rendah,Tinggi,Negeri,Netral,3,Tidak,SMA,Dekat,Perempuan,65
+15,80,Sedang,,Ya,9,91,Rendah,Ya,3,Rendah,Sedang,Negeri,Positif,2,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,FEMALE,67
+12,75,Sedang,Tinggi,Ya,7,58,Sedang,Ya,3,Sedang,Sedang,Swasta,positive,4,Tidak,Perguruan Tinggi,Dekat,Laki-laki,66
+29,78,Sedang,Sedang,Tidak,5,99,Tinggi,Ya,0,Tinggi,,Negeri,Negatif,1,Tidak,High School,Sedang/Jarak Sedang,Perempuan,999
+19,99,Sedang,Tinggi,Tidak,6,84,Sedang,Ya,1,Sedang,Tinggi,Negeri,Netral,,Tidak,High School,Dekat,Laki-laki,72
+20,74,Sedang,Tinggi,Tidak,8,89,Rendah,Ya,1,Sedang,Sedang,public,Negatif,2,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,66
+11,78,Tinggi,Sedang,Ya,8,,Tinggi,Ya,1,Rendah,Sedang,public,neutral,3,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,66
+17,65,Rendah,Tinggi,Ya,5,75,Sedang,Ya,2,Rendah,Sedang,Negeri,Positif,,Tidak,SMA,Ne@r,Perempuan,63
+21,62,Tinggi,Rendah,Ya,6,54,Tinggi,Ya,0,Tinggi,Tinggi,Publik,positive,3,Tidak,postgraduate,Jauh,MALE,64
+13,91,,Sedang,Tidak,,90,Sedang,Ya,1,Tinggi,Sedang,Negeri,Negatif,2,Ya,SMA,Moder@te,Perempuan,65
+22,83,Tinggi,Tinggi,Ya,6,,Sedang,Ya,0,Tinggi,Sedang,public,Netral,2,Tidak,Perguruan Tinggi,Moder@te,MALE,
+,90,Sedang,Sedang,,4,58,Sedang,Ya,1,Rendah,Sedang,Negeri,Netral,3,Tidak,High School,Sedang/Jarak Sedang,Perempuan,66
+18,66,Tinggi,Tinggi,,4,51,Rendah,Ya,2,Rendah,Sedang,Priv@te,neutral,,Tidak,college,Dekat,Laki-laki,64
+16,83,Rendah,Sedang,Tidak,6,57,Sedang,Ya,,Tinggi,Rendah,public,positive,4,Ya,High School,Dekat,Perempuan,63
+31,70,Sedang,,Ya,7,66,Sedang,Ya,1,Tinggi,Sedang,Negeri,Negatif,3,Tidak,college,Dekat,Laki-laki,69
+20,69,Sedang,Sedang,Ya,8,96,Sedang,Ya,2,Sedang,Tinggi,public,POSITIVE,,Tidak,SMA,Dekat,Laki-laki,67
+14,60,Tinggi,Sedang,Tidak,5,50,Sedang,Ya,2,Sedang,Sedang,Negeri,,3,Tidak,college,,Perempuan,61
+25,65,Tinggi,Sedang,Tidak,,90,Sedang,Ya,2,Sedang,Sedang,Negeri,Positif,3,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,68
+13,72,Rendah,Sedang,Tidak,6,93,Rendah,Ya,1,Rendah,Sedang,Negeri,Negatif,3,Tidak,High School,Dekat,Laki-laki,61
+21,65,Sedang,Rendah,Ya,7,91,Rendah,Ya,2,Sedang,Tinggi,Negeri,positive,3,Tidak,High School,F@r,Perempuan,64
+8,99,Sedang,Sedang,Tidak,9,54,Rendah,Ya,2,Rendah,Sedang,Negeri,Netral,5,Tidak,Pascasarjana,NEAR,Perempuan,67
+12,72,Rendah,Sedang,Ya,8,84,Sedang,Ya,1,Rendah,Sedang,Negeri,Positif,5,Tidak,SMA,Ne@r,Perempuan,63
+21,65,Rendah,Sedang,Ya,6,,Rendah,Ya,1,Sedang,Tinggi,Negeri,NEGATIVE,4,Tidak,,Ne@r,M@le,64
+24,68,Tinggi,Sedang,Tidak,8,56,Rendah,Ya,3,Tinggi,Tinggi,,neutral,1,Tidak,Perguruan Tinggi,Dekat,Laki-laki,67
+21,84,Sedang,Sedang,Ya,6,52,Rendah,Ya,1,Sedang,Tinggi,public,Netral,2,Ya,Perguruan Tinggi,Jauh,Perempuan,65
+19,63,,Tinggi,,7,94,Sedang,Ya,1,Sedang,Sedang,PRIVATE,Positif,3,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,64
+18,94,Sedang,Tinggi,Ya,7,82,Sedang,Ya,3,Sedang,Sedang,Priv@te,Negatif,2,Ya,COLLEGE,Dekat,Laki-laki,70
+11,98,Sedang,Sedang,Ya,9,82,Rendah,Ya,,Sedang,Sedang,,Positif,3,Tidak,Pascasarjana,FAR,Laki-laki,68
+16,70,Sedang,Sedang,Ya,8,98,,Ya,2,Sedang,,public,positive,3,Tidak,,,Laki-laki,65
+17,78,Sedang,Sedang,Ya,6,88,Sedang,Ya,1,Sedang,Tinggi,Swasta,positive,3,Tidak,Perguruan Tinggi,Dekat,Perempuan,68
+26,61,Sedang,Rendah,Ya,6,70,Sedang,,2,Rendah,Sedang,Negeri,Positif,3,Tidak,High School,Sedang/Jarak Sedang,Perempuan,64
+22,86,Rendah,Sedang,Ya,7,72,Rendah,Ya,3,Rendah,Tinggi,Negeri,Positif,2,Tidak,High School,Sedang/Jarak Sedang,Laki-laki,68
+9,77,Sedang,Sedang,Tidak,5,57,Sedang,Ya,2,,Tinggi,Negeri,Netral,3,Tidak,High School,Dekat,Laki-laki,63
+22,71,Rendah,Sedang,Ya,7,65,Rendah,Ya,1,Sedang,Rendah,Negeri,Positif,4,Tidak,COLLEGE,Sedang/Jarak Sedang,Laki-laki,64
+18,68,Tinggi,Sedang,Tidak,7,72,Sedang,Ya,0,,,public,neutral,3,Tidak,Perguruan Tinggi,Ne@r,Laki-laki,64
+16,86,Rendah,Sedang,Ya,8,63,Sedang,Ya,2,Sedang,Sedang,Negeri,Positif,4,Tidak,HIGH SCHOOL,Dekat,M@le,67
+24,77,Tinggi,Rendah,Tidak,8,96,Sedang,Ya,0,Sedang,Sedang,,neutral,3,,High School,,Perempuan,67
+26,67,Sedang,Tinggi,,7,51,Rendah,Ya,2,Tinggi,Tinggi,PRIVATE,Netral,4,Ya,POSTGRADUATE,Jauh,Perempuan,66
+26,88,Sedang,Tinggi,Ya,,79,Sedang,Ya,1,Rendah,Tinggi,Swasta,,4,Tidak,Perguruan Tinggi,Moder@te,M@le,72
+15,,Sedang,Tinggi,Tidak,5,89,Rendah,Tidak,1,Sedang,Tinggi,Negeri,neutral,2,Ya,HIGH SCHOOL,Dekat,FEMALE,65
+18,,Sedang,Sedang,Ya,6,87,,Ya,1,Sedang,,Negeri,Positif,4,Tidak,,,Laki-laki,71
+22,65,,Rendah,Tidak,8,82,Sedang,Ya,2,Sedang,Tinggi,Negeri,Positif,1,Tidak,Pascasarjana,Dekat,Perempuan,66
+26,91,Sedang,Rendah,Ya,8,71,Sedang,Ya,0,Rendah,Sedang,PRIVATE,Netral,3,Tidak,High School,MODERATE,M@le,68
+17,87,Sedang,Sedang,Tidak,7,96,Sedang,Ya,1,Tinggi,Sedang,Negeri,negative,5,Tidak,Pascasarjana,NEAR,FEMALE,70
+,65,Sedang,Sedang,Ya,10,,Rendah,Ya,0,Rendah,Sedang,Negeri,POSITIVE,3,,,Sedang/Jarak Sedang,,62
+13,88,Rendah,Tinggi,Ya,9,88,Tinggi,Ya,2,Rendah,Tinggi,Swasta,Negatif,4,Tidak,Pascasarjana,Jauh,Laki-laki,
+13,78,Sedang,Tinggi,Ya,9,96,Tinggi,Ya,2,Rendah,Sedang,Negeri,Netral,3,Tidak,Perguruan Tinggi,,Laki-laki,67
+25,98,Rendah,Tinggi,Ya,8,56,Sedang,Tidak,0,Sedang,Tinggi,Swasta,Netral,3,Tidak,Pascasarjana,NEAR,Laki-laki,71
+28,66,Sedang,Tinggi,Ya,8,97,Sedang,Ya,0,Sedang,,Negeri,Netral,2,Tidak,SMA,Dekat,Laki-laki,68
+20,86,Sedang,Sedang,Ya,,89,Sedang,Ya,1,Rendah,Sedang,Negeri,negative,3,Tidak,Postgr@du@te,Dekat,Laki-laki,69
+26,75,Rendah,Tinggi,Ya,4,81,Tinggi,Ya,3,Sedang,Tinggi,Swasta,Positif,2,Tidak,High School,Sedang/Jarak Sedang,M@le,70
+22,98,Sedang,Tinggi,Tidak,5,69,Rendah,Tidak,1,Rendah,Tinggi,Negeri,Negatif,4,Tidak,SMA,Sedang/Jarak Sedang,Perempuan,69
+16,73,Sedang,Sedang,Tidak,7,95,Sedang,Ya,1,Rendah,Sedang,Negeri,Negatif,,Tidak,Perguruan Tinggi,Dekat,Laki-laki,65
+22,98,Sedang,Rendah,Ya,7,52,Sedang,Tidak,3,Sedang,Sedang,Negeri,POSITIVE,3,Tidak,Perguruan Tinggi,Dekat,Perempuan,70
+29,,Sedang,Rendah,Ya,7,72,Sedang,Ya,1,Rendah,Sedang,Negeri,,3,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,71
+,71,Sedang,Sedang,Ya,7,88,Sedang,Ya,1,Rendah,Rendah,Negeri,Netral,4,Tidak,Perguruan Tinggi,Dekat,Perempuan,65
+29,92,Rendah,Sedang,Tidak,4,91,Sedang,Ya,2,Sedang,Sedang,Negeri,NEGATIVE,1,Tidak,Pascasarjana,Dekat,Perempuan,72
+4,100,Tinggi,Tinggi,Ya,8,60,Tinggi,Ya,0,Sedang,Tinggi,Swasta,positive,4,Tidak,COLLEGE,Sedang/Jarak Sedang,Laki-laki,69
+25,70,Sedang,Sedang,,7,52,Sedang,Ya,1,Sedang,Sedang,Negeri,Positif,3,Tidak,Pascasarjana,Dekat,Perempuan,66
+21,77,Rendah,Sedang,,7,90,Sedang,Ya,4,Sedang,Sedang,PRIVATE,Netral,3,Tidak,Pascasarjana,Sedang/Jarak Sedang,Laki-laki,68
+18,81,,Rendah,Ya,8,71,Sedang,Ya,0,Sedang,Sedang,Negeri,NEUTRAL,3,Tidak,High School,Sedang/Jarak Sedang,FEMALE,65
+21,72,Sedang,Sedang,Ya,,57,Sedang,Ya,1,Tinggi,Sedang,public,Netral,5,Ya,college,MODERATE,Laki-laki,64
+8,61,Sedang,Sedang,Ya,7,54,Sedang,Ya,,Tinggi,Sedang,Negeri,POSITIVE,3,Tidak,Perguruan Tinggi,NEAR,Laki-laki,60
+19,,Sedang,Tinggi,Ya,7,82,Tinggi,Ya,1,Rendah,,,Negatif,2,Tidak,High School,Dekat,Laki-laki,65
+22,71,Tinggi,Sedang,Tidak,6,79,Tinggi,Ya,1,Rendah,Rendah,Negeri,positive,3,Tidak,High School,Dekat,Laki-laki,
+29,78,Tinggi,Tinggi,Ya,4,93,Rendah,Ya,5,Sedang,Tinggi,Negeri,Netral,3,Tidak,Perguruan Tinggi,Dekat,Laki-laki,74
+17,67,Sedang,Sedang,Ya,5,52,Tinggi,Ya,2,Sedang,Sedang,Swasta,Negatif,3,Tidak,SMA,Jauh,Perempuan,62
+15,95,Sedang,Sedang,Tidak,7,93,Sedang,Ya,2,Rendah,Sedang,Negeri,Positif,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,M@le,70
+17,88,Sedang,Tinggi,Ya,,94,Rendah,Ya,0,Sedang,,Negeri,Netral,3,Tidak,High School,NEAR,Laki-laki,69
+25,63,Sedang,Tinggi,Ya,7,72,Sedang,Ya,3,Sedang,Tinggi,Swasta,Negatif,4,Tidak,,Jauh,Laki-laki,67
+22,86,Rendah,Rendah,Tidak,6,54,Sedang,Ya,2,,Sedang,Negeri,Netral,0,Tidak,High School,Sedang/Jarak Sedang,M@le,64
+17,86,Sedang,Tinggi,Tidak,5,97,Tinggi,Ya,3,Tinggi,Sedang,public,Netral,3,Tidak,Perguruan Tinggi,Ne@r,Laki-laki,71
+23,98,Sedang,Rendah,Ya,7,54,Rendah,,,Sedang,Sedang,Negeri,negative,3,Tidak,Perguruan Tinggi,Ne@r,Perempuan,68
+21,60,Tinggi,Sedang,Tidak,7,80,Sedang,Ya,0,Sedang,Tinggi,,Netral,4,Ya,Perguruan Tinggi,Dekat,Laki-laki,64
+26,70,Sedang,Rendah,Ya,8,75,Sedang,Ya,1,Sedang,Rendah,Swasta,Netral,4,Ya,High School,Jauh,FEMALE,63
+16,97,Sedang,Sedang,Ya,6,,Rendah,Ya,0,Tinggi,Sedang,Swasta,Positif,4,Tidak,Perguruan Tinggi,Dekat,Laki-laki,71
+18,97,Tinggi,Sedang,Ya,4,75,Rendah,Ya,0,Rendah,Sedang,Negeri,Positif,3,Tidak,High School,Moder@te,Laki-laki,69
+18,89,Tinggi,Sedang,Ya,4,,Sedang,Ya,3,Tinggi,Sedang,Swasta,Positif,2,Tidak,Perguruan Tinggi,Ne@r,Perempuan,100
+11,91,Sedang,Sedang,Tidak,,94,Sedang,Ya,3,Sedang,Sedang,Negeri,Netral,3,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,68
+22,64,Rendah,Sedang,Tidak,7,98,Rendah,,,Sedang,Sedang,Negeri,Negatif,3,Tidak,High School,Dekat,Laki-laki,62
+22,81,Sedang,Sedang,Ya,7,,Rendah,Ya,2,Sedang,Sedang,Negeri,Positif,3,Tidak,Pascasarjana,,FEMALE,68
+,69,Tinggi,Tinggi,Ya,6,73,Sedang,Ya,2,Rendah,Sedang,Swasta,POSITIVE,,Tidak,SMA,Jauh,MALE,66
+19,67,Rendah,Sedang,Tidak,5,92,Tinggi,Ya,0,Sedang,Sedang,Negeri,positive,3,Tidak,Perguruan Tinggi,Dekat,Laki-laki,64
+12,92,,Sedang,Tidak,4,92,Tinggi,Ya,2,Sedang,,public,NEUTRAL,3,Ya,High School,MODERATE,M@le,67
+17,65,Sedang,Tinggi,Ya,8,66,Sedang,Ya,1,Tinggi,Tinggi,public,NEUTRAL,4,Ya,postgraduate,Sedang/Jarak Sedang,Perempuan,65
+18,79,Sedang,Sedang,Ya,7,79,Sedang,Ya,0,Rendah,Tinggi,Swasta,Netral,3,Tidak,Perguruan Tinggi,Jauh,Laki-laki,65
+15,98,Tinggi,Sedang,Tidak,6,58,Tinggi,Ya,0,Rendah,Tinggi,Negeri,Positif,3,Tidak,Perguruan Tinggi,Dekat,Laki-laki,69
+19,67,Sedang,Sedang,Tidak,5,82,Tinggi,Ya,1,Rendah,Rendah,Swasta,NEGATIVE,3,Tidak,SMA,,Laki-laki,63
+22,99,Sedang,Rendah,Ya,6,92,Rendah,Ya,3,Sedang,Sedang,Negeri,Negatif,4,Tidak,postgraduate,MODERATE,Laki-laki,72
+31,100,Sedang,Sedang,Tidak,7,59,Sedang,Ya,2,Tinggi,Tinggi,Negeri,Positif,5,Tidak,Pascasarjana,Sedang/Jarak Sedang,MALE,76
+21,82,,,Ya,7,66,Tinggi,Ya,3,Rendah,Sedang,Negeri,Positif,3,Ya,college,Dekat,FEMALE,69
+22,,Sedang,Sedang,Ya,7,72,Tinggi,Ya,3,Rendah,Tinggi,,Positif,2,Tidak,Pascasarjana,Sedang/Jarak Sedang,Perempuan,67
+,73,Tinggi,Sedang,Ya,9,92,,Ya,2,Sedang,,Negeri,POSITIVE,3,Tidak,,,MALE,69
+8,77,Tinggi,Sedang,Ya,6,,Sedang,Ya,0,Rendah,Sedang,Negeri,Netral,2,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,63
+20,72,Sedang,,Tidak,9,66,Sedang,Ya,,Rendah,Tinggi,Priv@te,Positif,3,,Pascasarjana,Ne@r,Laki-laki,67
+20,71,,Tinggi,Ya,7,62,Tinggi,Ya,2,Sedang,Sedang,Negeri,Negatif,5,Tidak,Perguruan Tinggi,Ne@r,Laki-laki,66
+35,99,Tinggi,Tinggi,Ya,7,85,Rendah,Ya,2,Sedang,Tinggi,Swasta,Netral,2,Tidak,,Dekat,Perempuan,79
+19,66,Sedang,Sedang,,8,74,Sedang,Ya,1,Tinggi,Sedang,Negeri,Netral,3,Tidak,HIGH SCHOOL,Dekat,Perempuan,64
+22,89,Tinggi,Tinggi,Ya,6,80,Sedang,Ya,1,Tinggi,Tinggi,,Positif,3,Tidak,SMA,NEAR,Perempuan,73
+20,60,Rendah,,Tidak,7,82,Tinggi,Ya,2,Rendah,Tinggi,Negeri,Positif,4,Ya,High School,NEAR,M@le,63
+13,84,Sedang,Sedang,Tidak,5,78,Sedang,,1,Rendah,Tinggi,Negeri,Positif,2,Tidak,High School,Dekat,Laki-laki,
+27,97,Rendah,Tinggi,Ya,8,81,Sedang,Ya,0,Tinggi,Sedang,Negeri,Positif,5,Tidak,High School,Dekat,,73
+25,72,Tinggi,Tinggi,Ya,,94,Rendah,Ya,2,Rendah,Sedang,Priv@te,Positif,,Tidak,COLLEGE,Sedang/Jarak Sedang,Perempuan,70
+25,67,Tinggi,Sedang,Tidak,9,93,Tinggi,Ya,2,Rendah,Tinggi,Negeri,Positif,3,Ya,HIGH SCHOOL,Dekat,Perempuan,68
+15,86,Sedang,Sedang,Ya,7,57,Sedang,Ya,1,Sedang,Sedang,Negeri,negative,3,Tidak,Perguruan Tinggi,Dekat,,65
+28,89,Rendah,Tinggi,Ya,9,79,Tinggi,Ya,0,Rendah,Sedang,Priv@te,Positif,1,Tidak,,Sedang/Jarak Sedang,Perempuan,71
+12,88,Rendah,Sedang,Tidak,6,72,Rendah,Ya,2,Sedang,Sedang,Negeri,Positif,2,Tidak,Perguruan Tinggi,Jauh,Laki-laki,64
+24,73,Sedang,Tinggi,Ya,8,,Sedang,Ya,4,Tinggi,Sedang,Swasta,neutral,3,Ya,Perguruan Tinggi,Sedang/Jarak Sedang,MALE,68
+33,70,Sedang,Sedang,Ya,6,82,Rendah,Ya,1,Rendah,Tinggi,Negeri,Netral,4,Tidak,Perguruan Tinggi,Dekat,Laki-laki,69
+14,98,Sedang,Sedang,Tidak,7,76,Sedang,Ya,0,,Tinggi,Priv@te,,4,,,MODERATE,FEMALE,69
+17,97,Sedang,Sedang,Tidak,8,89,Sedang,Ya,1,Rendah,,Negeri,Netral,4,Tidak,High School,Jauh,Laki-laki,69
+21,78,Sedang,Sedang,Ya,10,55,Sedang,,1,Tinggi,Rendah,PRIVATE,Positif,2,Tidak,Perguruan Tinggi,Dekat,Laki-laki,67
+17,94,Rendah,Sedang,Ya,8,65,Rendah,Ya,4,Sedang,Sedang,Negeri,neutral,6,Tidak,SMA,Jauh,Perempuan,68
+11,,Sedang,Tinggi,Ya,8,51,Sedang,Ya,2,Rendah,Sedang,Negeri,Netral,3,Tidak,Pascasarjana,Dekat,Laki-laki,64
+20,77,Sedang,Sedang,Tidak,6,87,Rendah,Ya,0,Rendah,Tinggi,Negeri,Positif,4,Tidak,High School,Dekat,,66
+,66,Tinggi,Rendah,Tidak,7,96,Sedang,Ya,3,Rendah,Tinggi,Negeri,Negatif,3,,SMA,NEAR,Laki-laki,63
+23,77,,Sedang,Ya,7,79,Sedang,Ya,0,Rendah,Tinggi,Negeri,Netral,2,Tidak,SMA,,Laki-laki,66
+14,81,,Sedang,Tidak,9,81,Sedang,Ya,1,Rendah,Tinggi,,Negatif,,Tidak,Pascasarjana,Dekat,Perempuan,66
+29,61,Sedang,Tinggi,Ya,7,52,Rendah,Ya,3,Rendah,Sedang,Priv@te,Positif,3,Tidak,COLLEGE,NEAR,Perempuan,67
+15,78,Tinggi,Tinggi,Tidak,9,75,Rendah,Ya,1,Rendah,Sedang,Negeri,Negatif,1,Tidak,SMA,,MALE,65
+18,91,Rendah,Sedang,Ya,5,76,Sedang,Ya,1,Sedang,Sedang,Negeri,Netral,,Tidak,High School,Dekat,Perempuan,68
+25,87,Sedang,Rendah,Tidak,9,52,Tinggi,Ya,1,Rendah,Tinggi,Swasta,Positif,2,Tidak,SMA,,Laki-laki,68
+13,85,Tinggi,Sedang,Tidak,6,89,Sedang,Ya,0,Tinggi,Sedang,Swasta,Netral,1,Ya,HIGH SCHOOL,Dekat,Laki-laki,
+21,96,Sedang,Sedang,Tidak,8,64,Tinggi,Ya,2,Sedang,Tinggi,Negeri,Netral,0,Tidak,COLLEGE,Dekat,M@le,71
+28,61,,Tinggi,Tidak,6,86,Tinggi,Ya,,Rendah,Sedang,Priv@te,Negatif,3,Ya,Pascasarjana,Jauh,Laki-laki,65
+10,82,Sedang,Rendah,Tidak,8,70,Sedang,Ya,3,Rendah,Tinggi,Negeri,Positif,1,Ya,Pascasarjana,Dekat,,64
+21,91,Tinggi,Sedang,Tidak,6,100,Sedang,Ya,0,Tinggi,Sedang,Swasta,Netral,2,Tidak,Pascasarjana,Ne@r,Perempuan,72
+22,82,Sedang,,Tidak,9,61,Sedang,Ya,2,Rendah,Sedang,Negeri,Negatif,2,Ya,High School,Dekat,Perempuan,65
+25,73,Sedang,Tinggi,Tidak,8,53,Tinggi,Tidak,,Rendah,,Swasta,Negatif,5,Tidak,Pascasarjana,Dekat,Perempuan,66
+13,65,Rendah,Tinggi,Tidak,6,99,Sedang,,0,Rendah,Sedang,Swasta,NEGATIVE,4,Tidak,High School,Dekat,Laki-laki,61
+12,96,Rendah,Tinggi,Ya,8,62,Sedang,Ya,2,Sedang,Tinggi,Negeri,Negatif,3,Tidak,Perguruan Tinggi,Dekat,,68
+23,79,Tinggi,Tinggi,Ya,8,82,Rendah,Ya,3,Sedang,Sedang,Negeri,Negatif,3,Ya,POSTGRADUATE,Sedang/Jarak Sedang,Perempuan,69
+22,,Sedang,Tinggi,Ya,6,69,Sedang,Ya,1,,Sedang,Negeri,Positif,3,Tidak,college,Dekat,Perempuan,72
+22,83,Sedang,Tinggi,Ya,5,82,Sedang,Ya,2,Rendah,Tinggi,Negeri,Positif,3,Tidak,Pascasarjana,Dekat,FEMALE,71
+22,87,Tinggi,Tinggi,Tidak,5,80,Rendah,Ya,2,,Tinggi,public,NEGATIVE,3,Tidak,,Dekat,FEMALE,70
+16,92,Sedang,Tinggi,Ya,5,85,,Ya,1,Rendah,,Negeri,NEUTRAL,2,Tidak,,,Laki-laki,68
+21,86,Rendah,Sedang,Ya,5,51,Sedang,Ya,2,Rendah,Tinggi,Negeri,POSITIVE,2,Tidak,High School,Sedang/Jarak Sedang,Perempuan,67
+22,76,Sedang,Sedang,Ya,8,92,Sedang,,1,Rendah,Tinggi,Negeri,Netral,4,Tidak,High School,Dekat,Perempuan,68
+16,81,Sedang,Sedang,Ya,8,74,Sedang,Ya,3,Sedang,Sedang,Negeri,Positif,2,Tidak,postgraduate,Dekat,Perempuan,68
+31,92,Sedang,Sedang,Ya,4,76,Sedang,Ya,2,Sedang,Tinggi,Negeri,POSITIVE,4,,High School,,Laki-laki,72
+23,75,Rendah,Tinggi,Tidak,6,71,Rendah,Ya,0,Sedang,Sedang,Negeri,neutral,2,Tidak,Perguruan Tinggi,Dekat,Laki-laki,65
+13,76,Sedang,Tinggi,Tidak,5,,Rendah,Ya,2,Sedang,Sedang,Swasta,Positif,4,Tidak,HIGH SCHOOL,Dekat,Perempuan,66
+24,64,Sedang,Sedang,Ya,,90,Tinggi,Ya,0,Rendah,Tinggi,Negeri,Negatif,3,Tidak,High School,Dekat,Laki-laki,65
+14,97,Sedang,Sedang,Ya,6,66,Sedang,Ya,2,Sedang,Sedang,Negeri,Negatif,3,Ya,Perguruan Tinggi,Dekat,,67
+25,64,Sedang,Tinggi,Tidak,5,89,Rendah,Ya,2,Sedang,Sedang,public,Netral,4,Tidak,Perguruan Tinggi,F@r,Laki-laki,66
+27,86,Sedang,Sedang,Tidak,7,72,Rendah,Ya,1,Sedang,Tinggi,Negeri,Positif,4,Tidak,High School,F@r,Laki-laki,69
+15,77,Sedang,Sedang,Ya,8,94,Rendah,Ya,0,Tinggi,Tinggi,Negeri,Positif,3,Tidak,COLLEGE,Sedang/Jarak Sedang,MALE,66
+,76,Sedang,Tinggi,Ya,6,52,Sedang,Ya,4,Tinggi,Rendah,public,Netral,3,Tidak,High School,Dekat,Laki-laki,69
+22,87,Tinggi,Rendah,Ya,7,68,Sedang,Tidak,0,Rendah,Sedang,Negeri,,2,Tidak,High School,Ne@r,,67
+25,63,Tinggi,Sedang,Ya,6,71,Sedang,Ya,1,Sedang,Rendah,,Positif,3,Tidak,HIGH SCHOOL,Dekat,M@le,66
+31,84,Sedang,Sedang,Ya,9,87,Sedang,Ya,2,Rendah,,PRIVATE,Netral,3,Tidak,COLLEGE,Jauh,Laki-laki,71
+19,91,Tinggi,Rendah,Tidak,6,59,Sedang,Ya,5,Sedang,Tinggi,,Netral,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,70
+15,93,Tinggi,Sedang,Tidak,6,64,Sedang,Ya,2,Sedang,Tinggi,Negeri,Positif,4,Tidak,Pascasarjana,Dekat,Laki-laki,71
+15,67,Sedang,Sedang,Ya,,86,Tinggi,Ya,1,Tinggi,Sedang,Swasta,Positif,3,Tidak,Postgr@du@te,Dekat,Laki-laki,66
+15,96,Sedang,Sedang,Tidak,7,54,Tinggi,Tidak,3,Sedang,Tinggi,,Negatif,2,,High School,NEAR,Laki-laki,67
+20,86,Tinggi,Rendah,Tidak,8,60,Sedang,Ya,1,Sedang,Sedang,Negeri,Netral,4,Ya,Perguruan Tinggi,Jauh,Perempuan,66
+22,95,Sedang,Tinggi,Tidak,9,88,Rendah,Ya,0,Rendah,Tinggi,Negeri,Positif,2,Tidak,POSTGRADUATE,Dekat,M@le,72
+22,79,Sedang,,Tidak,9,94,Sedang,Ya,1,Sedang,Sedang,,POSITIVE,3,Tidak,,NEAR,M@le,68
+25,82,Sedang,,Tidak,6,86,,Tidak,3,Rendah,,public,Positif,3,Tidak,,,Perempuan,69
+20,97,Sedang,Sedang,Ya,7,76,Rendah,,2,Rendah,Rendah,Swasta,Positif,3,Tidak,Pascasarjana,Ne@r,Laki-laki,71
+29,96,Sedang,Sedang,Ya,9,55,Rendah,Tidak,0,Sedang,Sedang,public,Netral,2,Tidak,POSTGRADUATE,Jauh,FEMALE,70
+18,78,Sedang,Sedang,Tidak,9,91,Tinggi,Ya,2,Tinggi,Rendah,Negeri,neutral,4,Tidak,COLLEGE,F@r,Perempuan,67
+36,71,Sedang,Sedang,Ya,6,56,Sedang,Ya,2,Tinggi,,Negeri,Positif,2,Tidak,HIGH SCHOOL,Jauh,Laki-laki,
+24,76,Rendah,Tinggi,Tidak,8,,Rendah,Ya,2,Sedang,Sedang,Negeri,Netral,1,Tidak,High School,Sedang/Jarak Sedang,M@le,65
+15,76,Tinggi,Tinggi,Tidak,8,,Sedang,Ya,1,Rendah,Sedang,Negeri,,4,,Perguruan Tinggi,Dekat,M@le,65
+14,71,Sedang,Sedang,Ya,8,85,,Ya,2,Sedang,,Negeri,neutral,4,Tidak,,,MALE,64
+23,71,Rendah,Rendah,Ya,9,75,Rendah,Ya,1,Rendah,Sedang,Negeri,Negatif,2,Tidak,Perguruan Tinggi,Dekat,Laki-laki,63
+19,94,Rendah,Sedang,Ya,5,95,Sedang,Ya,3,Rendah,Rendah,Negeri,positive,2,Tidak,,,Laki-laki,69
+24,63,Sedang,Rendah,Ya,6,57,Sedang,Ya,1,Rendah,Tinggi,Priv@te,,5,Tidak,Perguruan Tinggi,Dekat,Perempuan,64
+23,87,Tinggi,Tinggi,Ya,8,91,Tinggi,Ya,0,Tinggi,Sedang,Swasta,Positif,3,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,72
+20,67,Rendah,Sedang,Ya,7,76,Sedang,Ya,0,Sedang,Sedang,Negeri,Netral,4,Tidak,SMA,Dekat,Laki-laki,63
+15,74,Rendah,Tinggi,Ya,4,68,Rendah,Ya,3,Rendah,Sedang,public,Positif,3,Tidak,HIGH SCHOOL,Dekat,FEMALE,64
+11,62,Sedang,Tinggi,Ya,5,82,Sedang,Ya,3,Tinggi,Sedang,Swasta,Netral,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,64
+17,71,Sedang,Sedang,Ya,8,90,Sedang,Ya,5,Sedang,Sedang,Negeri,POSITIVE,1,,Postgr@du@te,Jauh,Laki-laki,67
+25,91,Sedang,Sedang,Tidak,8,72,Rendah,Ya,2,Sedang,Tinggi,Negeri,Positif,0,Tidak,postgraduate,Dekat,Laki-laki,71
+21,95,,Sedang,Tidak,5,62,Tinggi,Ya,1,Sedang,Rendah,Negeri,Positif,4,Tidak,High School,Dekat,Laki-laki,
+13,69,Sedang,Rendah,Ya,9,96,Rendah,Ya,0,Tinggi,Sedang,Swasta,NEUTRAL,4,Tidak,High School,Jauh,Perempuan,61
+21,79,Sedang,Tinggi,Ya,7,66,Rendah,Ya,2,Rendah,Sedang,Negeri,Negatif,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,67
+,79,Tinggi,Sedang,Tidak,5,100,Sedang,,4,,Tinggi,Negeri,Negatif,3,Tidak,Perguruan Tinggi,Dekat,M@le,72
+15,95,Rendah,Rendah,Ya,6,88,,Ya,1,Rendah,,Negeri,Negatif,5,Tidak,,,Laki-laki,
+21,91,Sedang,Tinggi,Ya,5,84,Sedang,Ya,1,,Rendah,public,neutral,2,Tidak,High School,Ne@r,MALE,70
+,81,Tinggi,Sedang,Ya,6,51,Tinggi,Tidak,3,Sedang,Sedang,Negeri,Netral,4,Ya,SMA,Dekat,Laki-laki,67
+13,87,Tinggi,Rendah,Ya,4,72,Sedang,Ya,2,Sedang,Tinggi,Negeri,neutral,3,Tidak,HIGH SCHOOL,Sedang/Jarak Sedang,Perempuan,67
+22,94,Rendah,Sedang,Ya,7,75,Tinggi,Ya,2,Tinggi,Sedang,Negeri,Netral,2,Tidak,,Dekat,Perempuan,71
+23,,Tinggi,Sedang,Ya,8,69,Sedang,Ya,1,Rendah,Sedang,Swasta,Positif,4,Tidak,Perguruan Tinggi,Dekat,M@le,66
+26,76,Sedang,Sedang,Ya,5,57,Sedang,Ya,1,Sedang,,,Positif,4,Tidak,HIGH SCHOOL,Dekat,Laki-laki,68
+26,96,Sedang,Sedang,Ya,7,68,,Ya,3,Tinggi,,Swasta,positive,3,Tidak,,,Perempuan,74
+12,90,Sedang,Rendah,Ya,6,54,Sedang,Tidak,1,Tinggi,Sedang,Negeri,Netral,3,Tidak,SMA,Dekat,MALE,64
+14,82,Sedang,Sedang,Tidak,8,65,Sedang,Ya,1,Rendah,Sedang,Swasta,Positif,3,Tidak,Perguruan Tinggi,Dekat,Laki-laki,65
+23,81,Rendah,Sedang,,4,54,Sedang,Ya,1,Rendah,Sedang,Negeri,Netral,3,Tidak,Perguruan Tinggi,NEAR,,66
+23,74,Sedang,Tinggi,Ya,8,88,Rendah,Ya,0,Sedang,Tinggi,Negeri,Negatif,3,Ya,High School,Dekat,Laki-laki,66
+,81,Sedang,Rendah,Tidak,4,84,Sedang,Ya,2,Sedang,Sedang,public,Positif,5,Tidak,SMA,Dekat,Laki-laki,68
+43,86,Tinggi,Sedang,Ya,7,97,Sedang,Ya,2,Sedang,Tinggi,,positive,,Tidak,HIGH SCHOOL,Dekat,Perempuan,78
+23,77,Sedang,Tinggi,Ya,6,69,Rendah,,1,Sedang,Sedang,Swasta,Positif,,Tidak,High School,Sedang/Jarak Sedang,FEMALE,67
+,89,,Tinggi,Ya,6,89,Sedang,Ya,3,Sedang,Sedang,Swasta,Positif,3,Tidak,High School,Dekat,Laki-laki,74
+26,94,Sedang,Tinggi,Tidak,5,79,Tinggi,Ya,1,Rendah,Tinggi,public,,2,Tidak,Pascasarjana,NEAR,Laki-laki,74
+24,66,Sedang,Rendah,Tidak,9,82,Rendah,Ya,1,Sedang,Sedang,Negeri,Netral,2,Ya,High School,Dekat,,62
+18,78,Tinggi,Sedang,Ya,5,77,Sedang,Tidak,,Sedang,Sedang,Negeri,Netral,4,Tidak,High School,Jauh,Laki-laki,
+25,76,Sedang,Sedang,Ya,5,89,Tinggi,Ya,3,Sedang,Tinggi,Negeri,neutral,3,Tidak,SMA,Jauh,Perempuan,69
+15,87,Sedang,Tinggi,Ya,10,52,Sedang,Ya,2,Rendah,Tinggi,Swasta,Positif,3,Tidak,college,Dekat,Laki-laki,68
+19,70,Sedang,Rendah,Tidak,7,54,Tinggi,Ya,0,Sedang,Sedang,Negeri,Positif,2,Ya,SMA,Sedang/Jarak Sedang,Laki-laki,89
+17,86,Tinggi,Rendah,Tidak,5,55,,Tidak,2,Tinggi,,Swasta,Netral,4,Tidak,,,Laki-laki,66
+20,95,Rendah,Sedang,Ya,7,64,Rendah,Tidak,2,Sedang,Tinggi,Negeri,Netral,3,Tidak,High School,Dekat,Perempuan,68
+34,77,Sedang,Rendah,Ya,7,80,Rendah,Ya,0,Sedang,Sedang,Negeri,Positif,3,Tidak,HIGH SCHOOL,Dekat,Laki-laki,69
+9,96,Sedang,Sedang,Ya,4,82,Tinggi,Tidak,0,Rendah,Sedang,Negeri,POSITIVE,4,Tidak,Perguruan Tinggi,Dekat,Laki-laki,67
+24,100,Tinggi,Tinggi,Ya,6,86,Rendah,,,Sedang,Sedang,Swasta,POSITIVE,,Tidak,HIGH SCHOOL,,Laki-laki,75
+10,64,Sedang,Tinggi,Tidak,7,64,Tinggi,Ya,0,Sedang,Sedang,Negeri,Positif,4,Ya,High School,Sedang/Jarak Sedang,Perempuan,60
+17,69,Tinggi,Sedang,Ya,9,83,Sedang,Ya,2,Sedang,Tinggi,Swasta,Positif,4,Ya,Perguruan Tinggi,Moder@te,Perempuan,66
+27,98,Rendah,Tinggi,Ya,7,56,Rendah,Ya,1,Tinggi,Sedang,Swasta,,3,Tidak,COLLEGE,Ne@r,Perempuan,73
+20,98,Sedang,Rendah,,7,50,,Ya,1,Sedang,,Swasta,Netral,2,Tidak,,,Perempuan,68
+14,64,Sedang,Sedang,Ya,6,85,Sedang,Ya,0,Sedang,Sedang,Negeri,Netral,3,Tidak,SMA,Ne@r,Laki-laki,
+16,61,Sedang,Sedang,Tidak,9,86,Rendah,Ya,2,Rendah,Tinggi,Negeri,Positif,2,Tidak,High School,NEAR,Laki-laki,62
+24,66,Tinggi,Rendah,Ya,8,81,Tinggi,Ya,1,Sedang,Sedang,Negeri,,4,Tidak,HIGH SCHOOL,FAR,Laki-laki,65
+16,100,Tinggi,,Ya,8,63,Tinggi,Ya,2,Rendah,Sedang,Negeri,Negatif,3,Tidak,High School,Sedang/Jarak Sedang,M@le,69
+21,67,Sedang,Sedang,,7,,Rendah,Ya,,Rendah,Sedang,Negeri,neutral,2,Tidak,High School,,Perempuan,64
+20,80,Sedang,Tinggi,Tidak,5,94,Sedang,Ya,0,Rendah,Rendah,Swasta,Positif,4,Ya,Postgr@du@te,MODERATE,FEMALE,
+16,94,Tinggi,Tinggi,Ya,9,76,,Ya,,Rendah,,Negeri,Netral,2,Tidak,,,M@le,70
+33,61,Sedang,Sedang,Tidak,7,99,Tinggi,Ya,2,Sedang,Tinggi,Negeri,Netral,3,Tidak,Perguruan Tinggi,Ne@r,Perempuan,70
+24,84,Tinggi,,Tidak,,65,Rendah,Ya,3,Sedang,Tinggi,public,Positif,3,Tidak,High School,Dekat,Perempuan,69
+8,71,Tinggi,,Tidak,8,75,Sedang,Ya,0,Sedang,Tinggi,Negeri,POSITIVE,3,Tidak,High School,Dekat,M@le,61
+21,94,Sedang,Sedang,Tidak,7,96,,Ya,0,,,Swasta,Netral,2,Ya,,,Laki-laki,69
+16,71,Tinggi,Sedang,Ya,5,73,Sedang,Ya,1,Sedang,Sedang,Negeri,Netral,0,Ya,SMA,Ne@r,MALE,63
+,87,Sedang,Rendah,Ya,7,74,Rendah,Ya,0,Sedang,Tinggi,public,Netral,4,Ya,,NEAR,Laki-laki,67
+15,87,Rendah,Sedang,Tidak,4,54,Sedang,Ya,1,Sedang,Sedang,Negeri,Netral,6,Tidak,,Sedang/Jarak Sedang,Laki-laki,65
+19,69,Sedang,Sedang,Ya,7,61,Tinggi,Ya,3,Tinggi,Tinggi,Negeri,Netral,4,Tidak,High School,Sedang/Jarak Sedang,Laki-laki,66
+23,,Rendah,Sedang,Tidak,9,58,Sedang,Ya,4,Sedang,,Negeri,Netral,2,,High School,Dekat,,63
+,76,Sedang,Tinggi,Ya,4,78,Sedang,Ya,2,Sedang,,Swasta,Negatif,3,Tidak,SMA,MODERATE,Perempuan,68
+13,72,Tinggi,Tinggi,Tidak,7,66,Sedang,Ya,,,Tinggi,public,Netral,4,Tidak,Pascasarjana,Ne@r,Laki-laki,65
+18,92,Rendah,Sedang,Ya,8,54,Sedang,Ya,1,Sedang,,Negeri,POSITIVE,3,Tidak,High School,Ne@r,M@le,67
+17,92,,Rendah,Ya,8,75,Sedang,Ya,,Sedang,Tinggi,Negeri,Netral,3,Tidak,Pascasarjana,Ne@r,Perempuan,68
+16,78,Sedang,Tinggi,Tidak,6,83,Sedang,Ya,0,Rendah,Rendah,Negeri,Netral,3,Ya,Perguruan Tinggi,Dekat,Laki-laki,64
+31,84,Sedang,Sedang,,5,87,Tinggi,Ya,0,Sedang,Sedang,Swasta,Positif,3,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,71
+22,84,Sedang,Sedang,Ya,6,92,Rendah,Ya,0,Sedang,Sedang,Negeri,Netral,5,Tidak,High School,Dekat,Perempuan,69
+12,93,Sedang,Sedang,Ya,9,74,Rendah,Ya,1,,Sedang,Negeri,Netral,3,Tidak,POSTGRADUATE,Sedang/Jarak Sedang,MALE,67
+26,77,Rendah,Sedang,Tidak,4,70,Rendah,Ya,,Tinggi,Rendah,Negeri,Netral,3,Ya,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,65
+33,71,Rendah,Sedang,Tidak,5,84,Sedang,Ya,1,Sedang,Sedang,Negeri,Positif,2,Tidak,,Dekat,M@le,68
+26,71,Tinggi,Sedang,Ya,,51,Rendah,Tidak,1,Tinggi,Sedang,Swasta,Positif,3,Tidak,Pascasarjana,Sedang/Jarak Sedang,Laki-laki,67
+11,81,Sedang,Sedang,Ya,,82,Tinggi,Ya,3,Sedang,Tinggi,Negeri,Netral,4,Tidak,SMA,Ne@r,M@le,67
+17,78,Sedang,Tinggi,Ya,7,70,Sedang,Tidak,2,Rendah,Tinggi,,Positif,3,Tidak,High School,,Laki-laki,66
+28,78,Tinggi,Sedang,Tidak,,73,Tinggi,Ya,2,Sedang,Sedang,Negeri,Netral,4,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,70
+16,64,Tinggi,Rendah,Ya,5,,Sedang,Ya,3,Sedang,Tinggi,Swasta,,4,Tidak,Pascasarjana,MODERATE,,65
+23,89,Rendah,Rendah,Ya,7,56,Rendah,Ya,4,Sedang,Rendah,PRIVATE,Positif,4,Tidak,Pascasarjana,Dekat,Perempuan,69
+25,69,,Sedang,Ya,7,70,Rendah,Tidak,1,,Tinggi,Negeri,Positif,,Tidak,High School,F@r,Perempuan,65
+14,68,Tinggi,,,6,65,Sedang,Ya,1,Tinggi,Sedang,Negeri,Netral,3,Ya,Perguruan Tinggi,Dekat,Laki-laki,63
+20,,Sedang,Sedang,Tidak,5,98,Rendah,Ya,2,Rendah,Tinggi,PRIVATE,Netral,2,Tidak,,FAR,Perempuan,67
+1,69,Tinggi,Sedang,Ya,6,97,Sedang,Ya,1,Rendah,Sedang,Negeri,Positif,3,Tidak,HIGH SCHOOL,NEAR,FEMALE,61
+14,83,Sedang,Rendah,Ya,6,82,Sedang,Ya,0,,Sedang,Negeri,Positif,2,Tidak,High School,,,65
+18,,Rendah,Tinggi,Ya,8,95,Sedang,Ya,1,Rendah,Rendah,Negeri,,2,Tidak,college,Ne@r,Perempuan,66
+13,78,Sedang,Tinggi,Ya,8,88,Tinggi,Ya,0,Tinggi,Rendah,Negeri,Netral,3,Tidak,COLLEGE,Dekat,Laki-laki,66
+30,81,Sedang,Rendah,Ya,5,67,,Ya,1,Tinggi,,public,NEGATIVE,1,Tidak,,,Laki-laki,69
+11,68,Sedang,Sedang,,6,80,Sedang,Ya,2,Sedang,Sedang,Negeri,positive,3,,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,63
+17,66,Rendah,Tinggi,Tidak,6,61,Sedang,Ya,1,Tinggi,Sedang,Negeri,POSITIVE,6,Tidak,Pascasarjana,Dekat,Laki-laki,65
+21,95,,Rendah,Tidak,10,84,Rendah,Ya,0,Tinggi,Sedang,public,Netral,4,Ya,High School,Dekat,Laki-laki,67
+29,77,Tinggi,Tinggi,Ya,7,52,Sedang,Ya,2,Tinggi,Sedang,public,NEGATIVE,3,Ya,High School,NEAR,Perempuan,69
+11,76,Rendah,Sedang,Ya,5,92,Sedang,Ya,4,Sedang,Rendah,Negeri,Negatif,,Tidak,Pascasarjana,Dekat,Laki-laki,65
+27,61,Sedang,Sedang,Tidak,6,79,Sedang,Ya,1,Rendah,Sedang,Negeri,Positif,3,Tidak,SMA,Sedang/Jarak Sedang,Laki-laki,65
+20,80,Tinggi,Rendah,Ya,6,53,Sedang,Ya,0,Rendah,Sedang,Negeri,Netral,2,Tidak,Perguruan Tinggi,Sedang/Jarak Sedang,Laki-laki,65
+14,82,Sedang,Tinggi,Ya,8,,Rendah,Ya,2,Rendah,Tinggi,Negeri,Negatif,5,Tidak,Perguruan Tinggi,F@r,Perempuan,67
+23,82,Rendah,Sedang,Ya,8,94,Sedang,Ya,1,Sedang,Sedang,Negeri,Negatif,2,Ya,SMA,,,66
+21,88,Sedang,Tinggi,,7,93,Sedang,Ya,4,Rendah,Sedang,Negeri,Positif,3,Tidak,High School,Dekat,Perempuan,72
+16,67,Sedang,Tinggi,Tidak,7,89,Tinggi,Ya,3,Rendah,Sedang,Negeri,Positif,3,Tidak,Perguruan Tinggi,,Laki-laki,66
+20,70,Sedang,Sedang,Ya,7,84,Rendah,Tidak,2,Sedang,Tinggi,Swasta,Netral,4,Tidak,COLLEGE,Jauh,,65
+18,92,Tinggi,Sedang,Ya,7,70,Sedang,Ya,1,Rendah,Sedang,Negeri,,3,Tidak,,Moder@te,Laki-laki,69
+21,98,Sedang,Rendah,Tidak,4,57,Sedang,Ya,2,Tinggi,Rendah,Negeri,Netral,2,,High School,Dekat,Perempuan,68
+24,65,Sedang,Rendah,Tidak,7,64,Rendah,Ya,1,Tinggi,Sedang,Negeri,Netral,1,Tidak,Pascasarjana,Dekat,Laki-laki,64
+30,80,Rendah,Tinggi,Tidak,6,67,Sedang,Ya,3,Sedang,Sedang,Negeri,Negatif,4,,Perguruan Tinggi,MODERATE,Perempuan,69
+13,69,Sedang,Rendah,Ya,5,68,Rendah,Ya,0,Tinggi,,public,Positif,1,Ya,High School,Sedang/Jarak Sedang,Perempuan,59
+33,62,Tinggi,Sedang,Ya,10,78,Sedang,Ya,0,Sedang,Sedang,PRIVATE,Positif,3,Tidak,High School,,FEMALE,68
+,73,Sedang,Sedang,Tidak,7,60,Sedang,Tidak,0,Tinggi,Sedang,Swasta,Netral,3,Tidak,High School,Dekat,Perempuan,60
+19,66,Sedang,Tinggi,Tidak,7,59,Sedang,Ya,1,Tinggi,Sedang,public,Negatif,3,Tidak,High School,FAR,Laki-laki,62
+24,88,Rendah,,Ya,6,86,Rendah,Ya,0,Rendah,Rendah,Negeri,Negatif,3,Tidak,Perguruan Tinggi,Ne@r,Laki-laki,67
+22,81,Rendah,Tinggi,Ya,8,50,Tinggi,,4,Sedang,Sedang,Priv@te,POSITIVE,5,Tidak,High School,Jauh,Perempuan,
+16,,Sedang,Tinggi,Ya,5,57,Tinggi,,3,Sedang,Sedang,public,Positif,3,,High School,MODERATE,Perempuan,64
+19,60,Sedang,Tinggi,Ya,7,72,Tinggi,Ya,3,Rendah,Tinggi,Negeri,Positif,3,Tidak,High School,Sedang/Jarak Sedang,Perempuan,65
+17,92,Rendah,,Ya,6,57,Sedang,Ya,2,Sedang,Sedang,Swasta,Positif,2,Ya,HIGH SCHOOL,Sedang/Jarak Sedang,FEMALE,65
+16,67,Tinggi,Sedang,Tidak,8,98,Sedang,Ya,0,Rendah,Rendah,public,Netral,3,Tidak,High School,NEAR,FEMALE,63
+25,84,Sedang,Rendah,Ya,,84,Rendah,Ya,2,Sedang,Tinggi,Negeri,Positif,3,Tidak,High School,Dekat,Laki-laki,70
+22,73,Rendah,Sedang,Ya,9,72,Rendah,,3,Sedang,Sedang,public,Positif,,Tidak,High School,Dekat,Perempuan,66
+16,83,Sedang,Tinggi,Ya,7,56,Rendah,Ya,4,Tinggi,Sedang,Negeri,Positif,3,Tidak,SMA,Dekat,Perempuan,68
+25,73,Rendah,Rendah,,8,69,Sedang,Ya,3,Sedang,Sedang,Priv@te,,3,Tidak,SMA,Dekat,Perempuan,66
+,63,Rendah,Rendah,Tidak,8,83,Sedang,Ya,3,Sedang,Sedang,Swasta,Negatif,1,Tidak,Perguruan Tinggi,NEAR,Laki-laki,63
+25,69,Tinggi,Sedang,Ya,9,98,Sedang,Ya,1,Rendah,Sedang,Negeri,Negatif,3,Ya,Perguruan Tinggi,Sedang/Jarak Sedang,Perempuan,66
+24,68,Sedang,Sedang,Ya,6,74,Sedang,Ya,1,Sedang,Sedang,Negeri,neutral,3,Tidak,High School,NEAR,Perempuan,

@@ -1,0 +1,301 @@
+Jam_Belajar,Kehadiran,Keterlibatan_Orang_Tua,Akses_Sumber_Daya,Kegiatan_Ekstrakurikuler,Jam_Tidur,Nilai_Sebelumnya,Tingkat_Motivasi,Akses_Internet,Sesi_Bimbingan,Pendapatan_Keluarga,Kualitas_Guru,Jenis_Sekolah,Pengaruh_Teman,Aktivitas_Fisik,Kesulitan_Belajar,Pendidikan_Orang_Tua,Jarak_dari_Rumah,Jenis_Kelamin,Nilai_Ujian
+23.0,84.0,Rendah,Tinggi,Tidak,7.0,73.0,Rendah,Ya,0.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+19.0,64.0,Rendah,Sedang,Tidak,8.0,59.0,Rendah,Ya,2.0,Sedang,Sedang,Negeri,Negatif,4.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,61.0
+24.0,98.0,Sedang,Sedang,Ya,7.0,91.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,Pascasarjana,Dekat,Laki-Laki,74.0
+19.0,89.0,Rendah,Sedang,Ya,8.0,98.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Negatif,4.0,Tidak,SMA,Sedang,Laki-Laki,71.0
+19.0,92.0,Sedang,Sedang,Ya,6.0,65.0,Sedang,Ya,3.0,Sedang,Tinggi,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,67.0
+19.0,88.0,Sedang,Sedang,Ya,8.0,89.0,Sedang,Ya,3.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,71.0
+19.0,84.0,Sedang,Rendah,Ya,7.0,68.0,Rendah,Ya,1.0,Rendah,Sedang,Swasta,Netral,2.0,Tidak,SMA,Sedang,Laki-Laki,67.0
+19.0,78.0,Rendah,Tinggi,Ya,6.0,50.0,Sedang,Ya,1.0,Tinggi,Tinggi,Negeri,Negatif,2.0,Tidak,SMA,Jauh,Laki-Laki,66.0
+17.0,79.0,Sedang,Tinggi,Tidak,6.0,80.0,Tinggi,Ya,0.0,Sedang,Sedang,Swasta,Netral,1.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,69.0
+23.0,98.0,Sedang,Sedang,Ya,8.0,71.0,Sedang,Ya,0.0,Tinggi,Sedang,Negeri,Positif,5.0,Tidak,SMA,Dekat,Laki-Laki,72.0
+17.0,80.0,Rendah,Tinggi,Tidak,-3.0,88.0,Sedang,Tidak,4.0,Sedang,Tinggi,Swasta,Netral,4.0,Tidak,Perguruan Tinggi,sedang,Laki-Laki,68.0
+17.0,97.0,Sedang,Tinggi,Ya,6.0,87.0,Rendah,Ya,2.0,Rendah,Tinggi,Swasta,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,71.0
+21.0,79.0,Sedang,Sedang,Ya,8.0,97.0,Rendah,Ya,2.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,70.0
+9.0,82.0,Sedang,Sedang,Ya,8.0,72.0,Sedang,Ya,2.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,66.0
+10.0,79.0,Sedang,Tinggi,Ya,8.0,74.0,Sedang,Ya,1.0,Sedang,Sedang,Swasta,Netral,4.0,Tidak,Pascasarjana,Dekat,Laki-Laki,65.0
+17.0,68.0,Sedang,Sedang,Tidak,8.0,70.0,Sedang,Ya,2.0,Sedang,Sedang,Swasta,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+14.0,60.0,Sedang,Rendah,Ya,10.0,65.0,Rendah,Ya,0.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,60.0
+22.0,70.0,Rendah,Sedang,Ya,6.0,82.0,Sedang,Ya,1.0,Rendah,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,65.0
+15.0,80.0,Sedang,Sedang,Ya,9.0,91.0,Rendah,Ya,3.0,Rendah,Sedang,Negeri,Positif,2.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,67.0
+12.0,75.0,Sedang,Tinggi,Ya,7.0,58.0,Sedang,Ya,3.0,Sedang,Sedang,Swasta,Positif,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+19.0,78.0,Sedang,Sedang,Tidak,5.0,99.0,Tinggi,Ya,0.0,Tinggi,Sedang,Negeri,Negatif,1.0,Tidak,SMA,Sedang,Perempuan,999.0
+19.0,99.0,Sedang,Tinggi,Tidak,6.0,84.0,Sedang,Ya,1.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,72.0
+20.0,74.0,Sedang,Tinggi,Tidak,8.0,89.0,Rendah,Ya,1.0,Sedang,Sedang,publik,Negatif,2.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,66.0
+11.0,78.0,Tinggi,Sedang,Ya,8.0,76.0,Tinggi,Ya,1.0,Rendah,Sedang,publik,Netral,3.0,Tidak,SMA,Sedang,Laki-Laki,66.0
+17.0,65.0,Rendah,Tinggi,Ya,5.0,75.0,Sedang,Ya,2.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,63.0
+21.0,62.0,Tinggi,Rendah,Ya,6.0,54.0,Tinggi,Ya,0.0,Tinggi,Tinggi,publik,Positif,3.0,Tidak,Pascasarjana,Jauh,Laki-Laki,64.0
+13.0,91.0,Sedang,Sedang,Tidak,7.0,90.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Negatif,2.0,Ya,SMA,sedang,Perempuan,65.0
+22.0,83.0,Tinggi,Tinggi,Ya,6.0,76.0,Sedang,Ya,0.0,Tinggi,Sedang,publik,Netral,2.0,Tidak,Perguruan Tinggi,sedang,Laki-Laki,67.0
+20.0,90.0,Sedang,Sedang,Ya,4.0,58.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Netral,3.0,Tidak,SMA,Sedang,Perempuan,66.0
+18.0,66.0,Tinggi,Tinggi,Ya,4.0,51.0,Rendah,Ya,2.0,Rendah,Sedang,Swasta,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,64.0
+16.0,83.0,Rendah,Sedang,Tidak,6.0,57.0,Sedang,Ya,1.0,Tinggi,Rendah,publik,Positif,4.0,Ya,SMA,Dekat,Perempuan,63.0
+19.0,70.0,Sedang,Sedang,Ya,7.0,66.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,69.0
+20.0,69.0,Sedang,Sedang,Ya,8.0,96.0,Sedang,Ya,2.0,Sedang,Tinggi,publik,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+14.0,60.0,Tinggi,Sedang,Tidak,5.0,50.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,61.0
+19.0,65.0,Tinggi,Sedang,Tidak,7.0,90.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,68.0
+13.0,72.0,Rendah,Sedang,Tidak,6.0,93.0,Rendah,Ya,1.0,Rendah,Sedang,Negeri,Negatif,3.0,Tidak,SMA,Dekat,Laki-Laki,61.0
+21.0,65.0,Sedang,Rendah,Ya,7.0,91.0,Rendah,Ya,2.0,Sedang,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Jauh,Perempuan,64.0
+8.0,99.0,Sedang,Sedang,Tidak,9.0,54.0,Rendah,Ya,2.0,Rendah,Sedang,Negeri,Netral,5.0,Tidak,Pascasarjana,Dekat,Perempuan,67.0
+12.0,72.0,Rendah,Sedang,Ya,8.0,84.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,5.0,Tidak,SMA,Dekat,Perempuan,63.0
+21.0,65.0,Rendah,Sedang,Ya,6.0,76.0,Rendah,Ya,1.0,Sedang,Tinggi,Negeri,Negatif,4.0,Tidak,SMA,Dekat,Laki-Laki,64.0
+24.0,68.0,Tinggi,Sedang,Tidak,8.0,56.0,Rendah,Ya,3.0,Tinggi,Tinggi,Negeri,Netral,1.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+21.0,84.0,Sedang,Sedang,Ya,6.0,52.0,Rendah,Ya,1.0,Sedang,Tinggi,publik,Netral,2.0,Ya,Perguruan Tinggi,Jauh,Perempuan,65.0
+19.0,63.0,Sedang,Tinggi,Ya,7.0,94.0,Sedang,Ya,1.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Sedang,Laki-Laki,64.0
+18.0,94.0,Sedang,Tinggi,Ya,7.0,82.0,Sedang,Ya,3.0,Sedang,Sedang,Swasta,Negatif,2.0,Ya,Perguruan Tinggi,Dekat,Laki-Laki,70.0
+11.0,98.0,Sedang,Sedang,Ya,9.0,82.0,Rendah,Ya,1.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Pascasarjana,Jauh,Laki-Laki,68.0
+16.0,70.0,Sedang,Sedang,Ya,8.0,98.0,Sedang,Ya,2.0,Sedang,Sedang,publik,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,65.0
+17.0,78.0,Sedang,Sedang,Ya,6.0,88.0,Sedang,Ya,1.0,Sedang,Tinggi,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,68.0
+19.0,61.0,Sedang,Rendah,Ya,6.0,70.0,Sedang,Ya,2.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Sedang,Perempuan,64.0
+22.0,86.0,Rendah,Sedang,Ya,7.0,72.0,Rendah,Ya,3.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,SMA,Sedang,Laki-Laki,68.0
+9.0,77.0,Sedang,Sedang,Tidak,5.0,57.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,63.0
+22.0,71.0,Rendah,Sedang,Ya,7.0,65.0,Rendah,Ya,1.0,Sedang,Rendah,Negeri,Positif,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,64.0
+18.0,68.0,Tinggi,Sedang,Tidak,7.0,72.0,Sedang,Ya,0.0,Sedang,Sedang,publik,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,64.0
+16.0,86.0,Rendah,Sedang,Ya,8.0,63.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+24.0,77.0,Tinggi,Rendah,Tidak,8.0,96.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,67.0
+19.0,67.0,Sedang,Tinggi,Ya,7.0,51.0,Rendah,Ya,2.0,Tinggi,Tinggi,Swasta,Netral,4.0,Ya,Pascasarjana,Jauh,Perempuan,66.0
+19.0,88.0,Sedang,Tinggi,Ya,7.0,79.0,Sedang,Ya,1.0,Rendah,Tinggi,Swasta,Positif,4.0,Tidak,Perguruan Tinggi,sedang,Laki-Laki,72.0
+15.0,79.0,Sedang,Tinggi,Tidak,5.0,89.0,Rendah,Tidak,1.0,Sedang,Tinggi,Negeri,Netral,2.0,Ya,SMA,Dekat,Perempuan,65.0
+18.0,79.0,Sedang,Sedang,Ya,6.0,87.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,71.0
+22.0,65.0,Sedang,Rendah,Tidak,8.0,82.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Positif,1.0,Tidak,Pascasarjana,Dekat,Perempuan,66.0
+19.0,91.0,Sedang,Rendah,Ya,8.0,71.0,Sedang,Ya,0.0,Rendah,Sedang,Swasta,Netral,3.0,Tidak,SMA,sedang,Laki-Laki,68.0
+17.0,87.0,Sedang,Sedang,Tidak,7.0,96.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Negatif,5.0,Tidak,Pascasarjana,Dekat,Perempuan,70.0
+20.0,65.0,Sedang,Sedang,Ya,10.0,76.0,Rendah,Ya,0.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Sedang,Laki-Laki,62.0
+13.0,88.0,Rendah,Tinggi,Ya,9.0,88.0,Tinggi,Ya,2.0,Rendah,Tinggi,Swasta,Negatif,4.0,Tidak,Pascasarjana,Jauh,Laki-Laki,67.0
+13.0,78.0,Sedang,Tinggi,Ya,9.0,96.0,Tinggi,Ya,2.0,Rendah,Sedang,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+19.0,98.0,Rendah,Tinggi,Ya,8.0,56.0,Sedang,Tidak,0.0,Sedang,Tinggi,Swasta,Netral,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,71.0
+19.0,66.0,Sedang,Tinggi,Ya,8.0,97.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+20.0,86.0,Sedang,Sedang,Ya,7.0,89.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Negatif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,69.0
+19.0,75.0,Rendah,Tinggi,Ya,4.0,81.0,Tinggi,Ya,3.0,Sedang,Tinggi,Swasta,Positif,2.0,Tidak,SMA,Sedang,Laki-Laki,70.0
+22.0,98.0,Sedang,Tinggi,Tidak,5.0,69.0,Rendah,Tidak,1.0,Rendah,Tinggi,Negeri,Negatif,4.0,Tidak,SMA,Sedang,Perempuan,69.0
+16.0,73.0,Sedang,Sedang,Tidak,7.0,95.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,65.0
+22.0,98.0,Sedang,Rendah,Ya,7.0,52.0,Sedang,Tidak,3.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,70.0
+19.0,79.0,Sedang,Rendah,Ya,7.0,72.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Sedang,Laki-Laki,71.0
+20.0,71.0,Sedang,Sedang,Ya,7.0,88.0,Sedang,Ya,1.0,Rendah,Rendah,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,65.0
+19.0,92.0,Rendah,Sedang,Tidak,4.0,91.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Negatif,1.0,Tidak,Pascasarjana,Dekat,Perempuan,72.0
+19.0,100.0,Tinggi,Tinggi,Ya,8.0,60.0,Tinggi,Ya,0.0,Sedang,Tinggi,Swasta,Positif,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,69.0
+19.0,70.0,Sedang,Sedang,Ya,7.0,52.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Pascasarjana,Dekat,Perempuan,66.0
+21.0,77.0,Rendah,Sedang,Ya,7.0,90.0,Sedang,Ya,4.0,Sedang,Sedang,Swasta,Netral,3.0,Tidak,Pascasarjana,Sedang,Laki-Laki,68.0
+18.0,81.0,Sedang,Rendah,Ya,8.0,71.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Sedang,Perempuan,65.0
+21.0,72.0,Sedang,Sedang,Ya,7.0,57.0,Sedang,Ya,1.0,Tinggi,Sedang,publik,Netral,5.0,Ya,Perguruan Tinggi,sedang,Laki-Laki,64.0
+8.0,61.0,Sedang,Sedang,Ya,7.0,54.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,60.0
+19.0,79.0,Sedang,Tinggi,Ya,7.0,82.0,Tinggi,Ya,1.0,Rendah,Sedang,Negeri,Negatif,2.0,Tidak,SMA,Dekat,Laki-Laki,65.0
+22.0,71.0,Tinggi,Sedang,Tidak,6.0,79.0,Tinggi,Ya,1.0,Rendah,Rendah,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+19.0,78.0,Tinggi,Tinggi,Ya,4.0,93.0,Rendah,Ya,5.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,74.0
+17.0,67.0,Sedang,Sedang,Ya,5.0,52.0,Tinggi,Ya,2.0,Sedang,Sedang,Swasta,Negatif,3.0,Tidak,SMA,Jauh,Perempuan,62.0
+15.0,95.0,Sedang,Sedang,Tidak,7.0,93.0,Sedang,Ya,2.0,Rendah,Sedang,Negeri,Positif,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,70.0
+17.0,88.0,Sedang,Tinggi,Ya,7.0,94.0,Rendah,Ya,0.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+19.0,63.0,Sedang,Tinggi,Ya,7.0,72.0,Sedang,Ya,3.0,Sedang,Tinggi,Swasta,Negatif,4.0,Tidak,SMA,Jauh,Laki-Laki,67.0
+22.0,86.0,Rendah,Rendah,Tidak,6.0,54.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Netral,0.0,Tidak,SMA,Sedang,Laki-Laki,64.0
+17.0,86.0,Sedang,Tinggi,Tidak,5.0,97.0,Tinggi,Ya,3.0,Tinggi,Sedang,publik,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,71.0
+23.0,98.0,Sedang,Rendah,Ya,7.0,54.0,Rendah,Ya,1.0,Sedang,Sedang,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,68.0
+21.0,60.0,Tinggi,Sedang,Tidak,7.0,80.0,Sedang,Ya,0.0,Sedang,Tinggi,Negeri,Netral,4.0,Ya,Perguruan Tinggi,Dekat,Laki-Laki,64.0
+19.0,70.0,Sedang,Rendah,Ya,8.0,75.0,Sedang,Ya,1.0,Sedang,Rendah,Swasta,Netral,4.0,Ya,SMA,Jauh,Perempuan,63.0
+16.0,97.0,Sedang,Sedang,Ya,6.0,76.0,Rendah,Ya,0.0,Tinggi,Sedang,Swasta,Positif,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,71.0
+18.0,97.0,Tinggi,Sedang,Ya,4.0,75.0,Rendah,Ya,0.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,sedang,Laki-Laki,69.0
+18.0,89.0,Tinggi,Sedang,Ya,4.0,76.0,Sedang,Ya,3.0,Tinggi,Sedang,Swasta,Positif,2.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,100.0
+11.0,91.0,Sedang,Sedang,Tidak,7.0,94.0,Sedang,Ya,3.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,68.0
+22.0,64.0,Rendah,Sedang,Tidak,7.0,98.0,Rendah,Ya,1.0,Sedang,Sedang,Negeri,Negatif,3.0,Tidak,SMA,Dekat,Laki-Laki,62.0
+22.0,81.0,Sedang,Sedang,Ya,7.0,76.0,Rendah,Ya,2.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Pascasarjana,Dekat,Perempuan,68.0
+20.0,69.0,Tinggi,Tinggi,Ya,6.0,73.0,Sedang,Ya,2.0,Rendah,Sedang,Swasta,Positif,3.0,Tidak,SMA,Jauh,Laki-Laki,66.0
+19.0,67.0,Rendah,Sedang,Tidak,5.0,92.0,Tinggi,Ya,0.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,64.0
+12.0,92.0,Sedang,Sedang,Tidak,4.0,92.0,Tinggi,Ya,2.0,Sedang,Sedang,publik,Netral,3.0,Ya,SMA,sedang,Laki-Laki,67.0
+17.0,65.0,Sedang,Tinggi,Ya,8.0,66.0,Sedang,Ya,1.0,Tinggi,Tinggi,publik,Netral,4.0,Ya,Pascasarjana,Sedang,Perempuan,65.0
+18.0,79.0,Sedang,Sedang,Ya,7.0,79.0,Sedang,Ya,0.0,Rendah,Tinggi,Swasta,Netral,3.0,Tidak,Perguruan Tinggi,Jauh,Laki-Laki,65.0
+15.0,98.0,Tinggi,Sedang,Tidak,6.0,58.0,Tinggi,Ya,0.0,Rendah,Tinggi,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,69.0
+19.0,67.0,Sedang,Sedang,Tidak,5.0,82.0,Tinggi,Ya,1.0,Rendah,Rendah,Swasta,Negatif,3.0,Tidak,SMA,Dekat,Laki-Laki,63.0
+22.0,99.0,Sedang,Rendah,Ya,6.0,92.0,Rendah,Ya,3.0,Sedang,Sedang,Negeri,Negatif,4.0,Tidak,Pascasarjana,sedang,Laki-Laki,72.0
+19.0,100.0,Sedang,Sedang,Tidak,7.0,59.0,Sedang,Ya,2.0,Tinggi,Tinggi,Negeri,Positif,5.0,Tidak,Pascasarjana,Sedang,Laki-Laki,76.0
+21.0,82.0,Sedang,Sedang,Ya,7.0,66.0,Tinggi,Ya,3.0,Rendah,Sedang,Negeri,Positif,3.0,Ya,Perguruan Tinggi,Dekat,Perempuan,69.0
+22.0,79.0,Sedang,Sedang,Ya,7.0,72.0,Tinggi,Ya,3.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,Pascasarjana,Sedang,Perempuan,67.0
+20.0,73.0,Tinggi,Sedang,Ya,9.0,92.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+8.0,77.0,Tinggi,Sedang,Ya,6.0,76.0,Sedang,Ya,0.0,Rendah,Sedang,Negeri,Netral,2.0,Tidak,SMA,Sedang,Laki-Laki,63.0
+20.0,72.0,Sedang,Sedang,Tidak,9.0,66.0,Sedang,Ya,1.0,Rendah,Tinggi,Swasta,Positif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,67.0
+20.0,71.0,Sedang,Tinggi,Ya,7.0,62.0,Tinggi,Ya,2.0,Sedang,Sedang,Negeri,Negatif,5.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+19.0,99.0,Tinggi,Tinggi,Ya,7.0,85.0,Rendah,Ya,2.0,Sedang,Tinggi,Swasta,Netral,2.0,Tidak,SMA,Dekat,Perempuan,79.0
+19.0,66.0,Sedang,Sedang,Ya,8.0,74.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,64.0
+22.0,89.0,Tinggi,Tinggi,Ya,6.0,80.0,Sedang,Ya,1.0,Tinggi,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,73.0
+20.0,60.0,Rendah,Sedang,Tidak,7.0,82.0,Tinggi,Ya,2.0,Rendah,Tinggi,Negeri,Positif,4.0,Ya,SMA,Dekat,Laki-Laki,63.0
+13.0,84.0,Sedang,Sedang,Tidak,5.0,78.0,Sedang,Ya,1.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+19.0,97.0,Rendah,Tinggi,Ya,8.0,81.0,Sedang,Ya,0.0,Tinggi,Sedang,Negeri,Positif,5.0,Tidak,SMA,Dekat,Laki-Laki,73.0
+19.0,72.0,Tinggi,Tinggi,Ya,7.0,94.0,Rendah,Ya,2.0,Rendah,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,70.0
+19.0,67.0,Tinggi,Sedang,Tidak,9.0,93.0,Tinggi,Ya,2.0,Rendah,Tinggi,Negeri,Positif,3.0,Ya,SMA,Dekat,Perempuan,68.0
+15.0,86.0,Sedang,Sedang,Ya,7.0,57.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,65.0
+19.0,89.0,Rendah,Tinggi,Ya,9.0,79.0,Tinggi,Ya,0.0,Rendah,Sedang,Swasta,Positif,1.0,Tidak,SMA,Sedang,Perempuan,71.0
+12.0,88.0,Rendah,Sedang,Tidak,6.0,72.0,Rendah,Ya,2.0,Sedang,Sedang,Negeri,Positif,2.0,Tidak,Perguruan Tinggi,Jauh,Laki-Laki,64.0
+24.0,73.0,Sedang,Tinggi,Ya,8.0,76.0,Sedang,Ya,4.0,Tinggi,Sedang,Swasta,Netral,3.0,Ya,Perguruan Tinggi,Sedang,Laki-Laki,68.0
+19.0,70.0,Sedang,Sedang,Ya,6.0,82.0,Rendah,Ya,1.0,Rendah,Tinggi,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,69.0
+14.0,98.0,Sedang,Sedang,Tidak,7.0,76.0,Sedang,Ya,0.0,Sedang,Tinggi,Swasta,Positif,4.0,Tidak,SMA,sedang,Perempuan,69.0
+17.0,97.0,Sedang,Sedang,Tidak,8.0,89.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Netral,4.0,Tidak,SMA,Jauh,Laki-Laki,69.0
+21.0,78.0,Sedang,Sedang,Ya,10.0,55.0,Sedang,Ya,1.0,Tinggi,Rendah,Swasta,Positif,2.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+17.0,94.0,Rendah,Sedang,Ya,8.0,65.0,Rendah,Ya,4.0,Sedang,Sedang,Negeri,Netral,6.0,Tidak,SMA,Jauh,Perempuan,68.0
+11.0,79.0,Sedang,Tinggi,Ya,8.0,51.0,Sedang,Ya,2.0,Rendah,Sedang,Negeri,Netral,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,64.0
+20.0,77.0,Sedang,Sedang,Tidak,6.0,87.0,Rendah,Ya,0.0,Rendah,Tinggi,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,66.0
+20.0,66.0,Tinggi,Rendah,Tidak,7.0,96.0,Sedang,Ya,3.0,Rendah,Tinggi,Negeri,Negatif,3.0,Tidak,SMA,Dekat,Laki-Laki,63.0
+23.0,77.0,Sedang,Sedang,Ya,7.0,79.0,Sedang,Ya,0.0,Rendah,Tinggi,Negeri,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,66.0
+14.0,81.0,Sedang,Sedang,Tidak,9.0,81.0,Sedang,Ya,1.0,Rendah,Tinggi,Negeri,Negatif,3.0,Tidak,Pascasarjana,Dekat,Perempuan,66.0
+19.0,61.0,Sedang,Tinggi,Ya,7.0,52.0,Rendah,Ya,3.0,Rendah,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,67.0
+15.0,78.0,Tinggi,Tinggi,Tidak,9.0,75.0,Rendah,Ya,1.0,Rendah,Sedang,Negeri,Negatif,1.0,Tidak,SMA,Dekat,Laki-Laki,65.0
+18.0,91.0,Rendah,Sedang,Ya,5.0,76.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,68.0
+19.0,87.0,Sedang,Rendah,Tidak,9.0,52.0,Tinggi,Ya,1.0,Rendah,Tinggi,Swasta,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+13.0,85.0,Tinggi,Sedang,Tidak,6.0,89.0,Sedang,Ya,0.0,Tinggi,Sedang,Swasta,Netral,1.0,Ya,SMA,Dekat,Laki-Laki,67.0
+21.0,96.0,Sedang,Sedang,Tidak,8.0,64.0,Tinggi,Ya,2.0,Sedang,Tinggi,Negeri,Netral,0.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,71.0
+19.0,61.0,Sedang,Tinggi,Tidak,6.0,86.0,Tinggi,Ya,1.0,Rendah,Sedang,Swasta,Negatif,3.0,Ya,Pascasarjana,Jauh,Laki-Laki,65.0
+10.0,82.0,Sedang,Rendah,Tidak,8.0,70.0,Sedang,Ya,3.0,Rendah,Tinggi,Negeri,Positif,1.0,Ya,Pascasarjana,Dekat,Laki-Laki,64.0
+21.0,91.0,Tinggi,Sedang,Tidak,6.0,100.0,Sedang,Ya,0.0,Tinggi,Sedang,Swasta,Netral,2.0,Tidak,Pascasarjana,Dekat,Perempuan,72.0
+22.0,82.0,Sedang,Sedang,Tidak,9.0,61.0,Sedang,Ya,2.0,Rendah,Sedang,Negeri,Negatif,2.0,Ya,SMA,Dekat,Perempuan,65.0
+19.0,73.0,Sedang,Tinggi,Tidak,8.0,53.0,Tinggi,Tidak,1.0,Rendah,Sedang,Swasta,Negatif,5.0,Tidak,Pascasarjana,Dekat,Perempuan,66.0
+13.0,65.0,Rendah,Tinggi,Tidak,6.0,99.0,Sedang,Ya,0.0,Rendah,Sedang,Swasta,Negatif,4.0,Tidak,SMA,Dekat,Laki-Laki,61.0
+12.0,96.0,Rendah,Tinggi,Ya,8.0,62.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,68.0
+23.0,79.0,Tinggi,Tinggi,Ya,8.0,82.0,Rendah,Ya,3.0,Sedang,Sedang,Negeri,Negatif,3.0,Ya,Pascasarjana,Sedang,Perempuan,69.0
+22.0,79.0,Sedang,Tinggi,Ya,6.0,69.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,72.0
+22.0,83.0,Sedang,Tinggi,Ya,5.0,82.0,Sedang,Ya,2.0,Rendah,Tinggi,Negeri,Positif,3.0,Tidak,Pascasarjana,Dekat,Perempuan,71.0
+22.0,87.0,Tinggi,Tinggi,Tidak,5.0,80.0,Rendah,Ya,2.0,Sedang,Tinggi,publik,Negatif,3.0,Tidak,SMA,Dekat,Perempuan,70.0
+16.0,92.0,Sedang,Tinggi,Ya,5.0,85.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+21.0,86.0,Rendah,Sedang,Ya,5.0,51.0,Sedang,Ya,2.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,SMA,Sedang,Perempuan,67.0
+22.0,76.0,Sedang,Sedang,Ya,8.0,92.0,Sedang,Ya,1.0,Rendah,Tinggi,Negeri,Netral,4.0,Tidak,SMA,Dekat,Perempuan,68.0
+16.0,81.0,Sedang,Sedang,Ya,8.0,74.0,Sedang,Ya,3.0,Sedang,Sedang,Negeri,Positif,2.0,Tidak,Pascasarjana,Dekat,Perempuan,68.0
+19.0,92.0,Sedang,Sedang,Ya,4.0,76.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,72.0
+23.0,75.0,Rendah,Tinggi,Tidak,6.0,71.0,Rendah,Ya,0.0,Sedang,Sedang,Negeri,Netral,2.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,65.0
+13.0,76.0,Sedang,Tinggi,Tidak,5.0,76.0,Rendah,Ya,2.0,Sedang,Sedang,Swasta,Positif,4.0,Tidak,SMA,Dekat,Perempuan,66.0
+24.0,64.0,Sedang,Sedang,Ya,7.0,90.0,Tinggi,Ya,0.0,Rendah,Tinggi,Negeri,Negatif,3.0,Tidak,SMA,Dekat,Laki-Laki,65.0
+14.0,97.0,Sedang,Sedang,Ya,6.0,66.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Negatif,3.0,Ya,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+19.0,64.0,Sedang,Tinggi,Tidak,5.0,89.0,Rendah,Ya,2.0,Sedang,Sedang,publik,Netral,4.0,Tidak,Perguruan Tinggi,Jauh,Laki-Laki,66.0
+19.0,86.0,Sedang,Sedang,Tidak,7.0,72.0,Rendah,Ya,1.0,Sedang,Tinggi,Negeri,Positif,4.0,Tidak,SMA,Jauh,Laki-Laki,69.0
+15.0,77.0,Sedang,Sedang,Ya,8.0,94.0,Rendah,Ya,0.0,Tinggi,Tinggi,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,66.0
+20.0,76.0,Sedang,Tinggi,Ya,6.0,52.0,Sedang,Ya,4.0,Tinggi,Rendah,publik,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+22.0,87.0,Tinggi,Rendah,Ya,7.0,68.0,Sedang,Tidak,0.0,Rendah,Sedang,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+19.0,63.0,Tinggi,Sedang,Ya,6.0,71.0,Sedang,Ya,1.0,Sedang,Rendah,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,66.0
+19.0,84.0,Sedang,Sedang,Ya,9.0,87.0,Sedang,Ya,2.0,Rendah,Sedang,Swasta,Netral,3.0,Tidak,Perguruan Tinggi,Jauh,Laki-Laki,71.0
+19.0,91.0,Tinggi,Rendah,Tidak,6.0,59.0,Sedang,Ya,5.0,Sedang,Tinggi,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,70.0
+15.0,93.0,Tinggi,Sedang,Tidak,6.0,64.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Positif,4.0,Tidak,Pascasarjana,Dekat,Laki-Laki,71.0
+15.0,67.0,Sedang,Sedang,Ya,7.0,86.0,Tinggi,Ya,1.0,Tinggi,Sedang,Swasta,Positif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,66.0
+15.0,96.0,Sedang,Sedang,Tidak,7.0,54.0,Tinggi,Tidak,3.0,Sedang,Tinggi,Negeri,Negatif,2.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+20.0,86.0,Tinggi,Rendah,Tidak,8.0,60.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Netral,4.0,Ya,Perguruan Tinggi,Jauh,Perempuan,66.0
+22.0,95.0,Sedang,Tinggi,Tidak,9.0,88.0,Rendah,Ya,0.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,Pascasarjana,Dekat,Laki-Laki,72.0
+22.0,79.0,Sedang,Sedang,Tidak,9.0,94.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+19.0,82.0,Sedang,Sedang,Tidak,6.0,86.0,Sedang,Tidak,3.0,Rendah,Sedang,publik,Positif,3.0,Tidak,SMA,Dekat,Perempuan,69.0
+20.0,97.0,Sedang,Sedang,Ya,7.0,76.0,Rendah,Ya,2.0,Rendah,Rendah,Swasta,Positif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,71.0
+19.0,96.0,Sedang,Sedang,Ya,9.0,55.0,Rendah,Tidak,0.0,Sedang,Sedang,publik,Netral,2.0,Tidak,Pascasarjana,Jauh,Perempuan,70.0
+18.0,78.0,Sedang,Sedang,Tidak,9.0,91.0,Tinggi,Ya,2.0,Tinggi,Rendah,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Jauh,Perempuan,67.0
+19.0,71.0,Sedang,Sedang,Ya,6.0,56.0,Sedang,Ya,2.0,Tinggi,Sedang,Negeri,Positif,2.0,Tidak,SMA,Jauh,Laki-Laki,67.0
+24.0,76.0,Rendah,Tinggi,Tidak,8.0,76.0,Rendah,Ya,2.0,Sedang,Sedang,Negeri,Netral,1.0,Tidak,SMA,Sedang,Laki-Laki,65.0
+15.0,76.0,Tinggi,Tinggi,Tidak,8.0,76.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,65.0
+14.0,71.0,Sedang,Sedang,Ya,8.0,85.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Netral,4.0,Tidak,SMA,Dekat,Laki-Laki,64.0
+23.0,71.0,Rendah,Rendah,Ya,9.0,75.0,Rendah,Ya,1.0,Rendah,Sedang,Negeri,Negatif,2.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,63.0
+19.0,94.0,Rendah,Sedang,Ya,5.0,95.0,Sedang,Ya,3.0,Rendah,Rendah,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+24.0,63.0,Sedang,Rendah,Ya,6.0,57.0,Sedang,Ya,1.0,Rendah,Tinggi,Swasta,Positif,5.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,64.0
+23.0,87.0,Tinggi,Tinggi,Ya,8.0,91.0,Tinggi,Ya,0.0,Tinggi,Sedang,Swasta,Positif,3.0,Tidak,SMA,Sedang,Laki-Laki,72.0
+20.0,67.0,Rendah,Sedang,Ya,7.0,76.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Netral,4.0,Tidak,SMA,Dekat,Laki-Laki,63.0
+15.0,74.0,Rendah,Tinggi,Ya,4.0,68.0,Rendah,Ya,3.0,Rendah,Sedang,publik,Positif,3.0,Tidak,SMA,Dekat,Perempuan,64.0
+11.0,62.0,Sedang,Tinggi,Ya,5.0,82.0,Sedang,Ya,3.0,Tinggi,Sedang,Swasta,Netral,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,64.0
+17.0,71.0,Sedang,Sedang,Ya,8.0,90.0,Sedang,Ya,5.0,Sedang,Sedang,Negeri,Positif,1.0,Tidak,Pascasarjana,Jauh,Laki-Laki,67.0
+19.0,91.0,Sedang,Sedang,Tidak,8.0,72.0,Rendah,Ya,2.0,Sedang,Tinggi,Negeri,Positif,0.0,Tidak,Pascasarjana,Dekat,Laki-Laki,71.0
+21.0,95.0,Sedang,Sedang,Tidak,5.0,62.0,Tinggi,Ya,1.0,Sedang,Rendah,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+13.0,69.0,Sedang,Rendah,Ya,9.0,96.0,Rendah,Ya,0.0,Tinggi,Sedang,Swasta,Netral,4.0,Tidak,SMA,Jauh,Perempuan,61.0
+21.0,79.0,Sedang,Tinggi,Ya,7.0,66.0,Rendah,Ya,2.0,Rendah,Sedang,Negeri,Negatif,4.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,67.0
+20.0,79.0,Tinggi,Sedang,Tidak,5.0,100.0,Sedang,Ya,4.0,Sedang,Tinggi,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,72.0
+15.0,95.0,Rendah,Rendah,Ya,6.0,88.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Negatif,5.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+21.0,91.0,Sedang,Tinggi,Ya,5.0,84.0,Sedang,Ya,1.0,Sedang,Rendah,publik,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,70.0
+20.0,81.0,Tinggi,Sedang,Ya,6.0,51.0,Tinggi,Tidak,3.0,Sedang,Sedang,Negeri,Netral,4.0,Ya,SMA,Dekat,Laki-Laki,67.0
+13.0,87.0,Tinggi,Rendah,Ya,4.0,72.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Sedang,Perempuan,67.0
+22.0,94.0,Rendah,Sedang,Ya,7.0,75.0,Tinggi,Ya,2.0,Tinggi,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Perempuan,71.0
+23.0,79.0,Tinggi,Sedang,Ya,8.0,69.0,Sedang,Ya,1.0,Rendah,Sedang,Swasta,Positif,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+19.0,76.0,Sedang,Sedang,Ya,5.0,57.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+19.0,96.0,Sedang,Sedang,Ya,7.0,68.0,Sedang,Ya,3.0,Tinggi,Sedang,Swasta,Positif,3.0,Tidak,SMA,Dekat,Perempuan,74.0
+12.0,90.0,Sedang,Rendah,Ya,6.0,54.0,Sedang,Tidak,1.0,Tinggi,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,64.0
+14.0,82.0,Sedang,Sedang,Tidak,8.0,65.0,Sedang,Ya,1.0,Rendah,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,65.0
+23.0,81.0,Rendah,Sedang,Ya,4.0,54.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+23.0,74.0,Sedang,Tinggi,Ya,8.0,88.0,Rendah,Ya,0.0,Sedang,Tinggi,Negeri,Negatif,3.0,Ya,SMA,Dekat,Laki-Laki,66.0
+20.0,81.0,Sedang,Rendah,Tidak,4.0,84.0,Sedang,Ya,2.0,Sedang,Sedang,publik,Positif,5.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+19.0,86.0,Tinggi,Sedang,Ya,7.0,97.0,Sedang,Ya,2.0,Sedang,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,78.0
+23.0,77.0,Sedang,Tinggi,Ya,6.0,69.0,Rendah,Ya,1.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Sedang,Perempuan,67.0
+20.0,89.0,Sedang,Tinggi,Ya,6.0,89.0,Sedang,Ya,3.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,74.0
+19.0,94.0,Sedang,Tinggi,Tidak,5.0,79.0,Tinggi,Ya,1.0,Rendah,Tinggi,publik,Positif,2.0,Tidak,Pascasarjana,Dekat,Laki-Laki,74.0
+24.0,66.0,Sedang,Rendah,Tidak,9.0,82.0,Rendah,Ya,1.0,Sedang,Sedang,Negeri,Netral,2.0,Ya,SMA,Dekat,Laki-Laki,62.0
+18.0,78.0,Tinggi,Sedang,Ya,5.0,77.0,Sedang,Tidak,1.0,Sedang,Sedang,Negeri,Netral,4.0,Tidak,SMA,Jauh,Laki-Laki,67.0
+19.0,76.0,Sedang,Sedang,Ya,5.0,89.0,Tinggi,Ya,3.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Jauh,Perempuan,69.0
+15.0,87.0,Sedang,Tinggi,Ya,10.0,52.0,Sedang,Ya,2.0,Rendah,Tinggi,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,68.0
+19.0,70.0,Sedang,Rendah,Tidak,7.0,54.0,Tinggi,Ya,0.0,Sedang,Sedang,Negeri,Positif,2.0,Ya,SMA,Sedang,Laki-Laki,89.0
+17.0,86.0,Tinggi,Rendah,Tidak,5.0,55.0,Sedang,Tidak,2.0,Tinggi,Sedang,Swasta,Netral,4.0,Tidak,SMA,Dekat,Laki-Laki,66.0
+20.0,95.0,Rendah,Sedang,Ya,7.0,64.0,Rendah,Tidak,2.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,68.0
+19.0,77.0,Sedang,Rendah,Ya,7.0,80.0,Rendah,Ya,0.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+9.0,96.0,Sedang,Sedang,Ya,4.0,82.0,Tinggi,Tidak,0.0,Rendah,Sedang,Negeri,Positif,4.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+24.0,100.0,Tinggi,Tinggi,Ya,6.0,86.0,Rendah,Ya,1.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,75.0
+10.0,64.0,Sedang,Tinggi,Tidak,7.0,64.0,Tinggi,Ya,0.0,Sedang,Sedang,Negeri,Positif,4.0,Ya,SMA,Sedang,Perempuan,60.0
+17.0,69.0,Tinggi,Sedang,Ya,9.0,83.0,Sedang,Ya,2.0,Sedang,Tinggi,Swasta,Positif,4.0,Ya,Perguruan Tinggi,sedang,Perempuan,66.0
+19.0,98.0,Rendah,Tinggi,Ya,7.0,56.0,Rendah,Ya,1.0,Tinggi,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,73.0
+20.0,98.0,Sedang,Rendah,Ya,7.0,50.0,Sedang,Ya,1.0,Sedang,Sedang,Swasta,Netral,2.0,Tidak,SMA,Dekat,Perempuan,68.0
+14.0,64.0,Sedang,Sedang,Ya,6.0,85.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+16.0,61.0,Sedang,Sedang,Tidak,9.0,86.0,Rendah,Ya,2.0,Rendah,Tinggi,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,62.0
+24.0,66.0,Tinggi,Rendah,Ya,8.0,81.0,Tinggi,Ya,1.0,Sedang,Sedang,Negeri,Positif,4.0,Tidak,SMA,Jauh,Laki-Laki,65.0
+16.0,100.0,Tinggi,Sedang,Ya,8.0,63.0,Tinggi,Ya,2.0,Rendah,Sedang,Negeri,Negatif,3.0,Tidak,SMA,Sedang,Laki-Laki,69.0
+21.0,67.0,Sedang,Sedang,Ya,7.0,76.0,Rendah,Ya,1.0,Rendah,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Perempuan,64.0
+20.0,80.0,Sedang,Tinggi,Tidak,5.0,94.0,Sedang,Ya,0.0,Rendah,Rendah,Swasta,Positif,4.0,Ya,Pascasarjana,sedang,Perempuan,67.0
+16.0,94.0,Tinggi,Tinggi,Ya,9.0,76.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,70.0
+19.0,61.0,Sedang,Sedang,Tidak,7.0,99.0,Tinggi,Ya,2.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,70.0
+24.0,84.0,Tinggi,Sedang,Tidak,7.0,65.0,Rendah,Ya,3.0,Sedang,Tinggi,publik,Positif,3.0,Tidak,SMA,Dekat,Perempuan,69.0
+8.0,71.0,Tinggi,Sedang,Tidak,8.0,75.0,Sedang,Ya,0.0,Sedang,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,61.0
+21.0,94.0,Sedang,Sedang,Tidak,7.0,96.0,Sedang,Ya,0.0,Sedang,Sedang,Swasta,Netral,2.0,Ya,SMA,Dekat,Laki-Laki,69.0
+16.0,71.0,Tinggi,Sedang,Ya,5.0,73.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Netral,0.0,Ya,SMA,Dekat,Laki-Laki,63.0
+20.0,87.0,Sedang,Rendah,Ya,7.0,74.0,Rendah,Ya,0.0,Sedang,Tinggi,publik,Netral,4.0,Ya,SMA,Dekat,Laki-Laki,67.0
+15.0,87.0,Rendah,Sedang,Tidak,4.0,54.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Netral,6.0,Tidak,SMA,Sedang,Laki-Laki,65.0
+19.0,69.0,Sedang,Sedang,Ya,7.0,61.0,Tinggi,Ya,3.0,Tinggi,Tinggi,Negeri,Netral,4.0,Tidak,SMA,Sedang,Laki-Laki,66.0
+23.0,79.0,Rendah,Sedang,Tidak,9.0,58.0,Sedang,Ya,4.0,Sedang,Sedang,Negeri,Netral,2.0,Tidak,SMA,Dekat,Laki-Laki,63.0
+20.0,76.0,Sedang,Tinggi,Ya,4.0,78.0,Sedang,Ya,2.0,Sedang,Sedang,Swasta,Negatif,3.0,Tidak,SMA,sedang,Perempuan,68.0
+13.0,72.0,Tinggi,Tinggi,Tidak,7.0,66.0,Sedang,Ya,1.0,Sedang,Tinggi,publik,Netral,4.0,Tidak,Pascasarjana,Dekat,Laki-Laki,65.0
+18.0,92.0,Rendah,Sedang,Ya,8.0,54.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+17.0,92.0,Sedang,Rendah,Ya,8.0,75.0,Sedang,Ya,1.0,Sedang,Tinggi,Negeri,Netral,3.0,Tidak,Pascasarjana,Dekat,Perempuan,68.0
+16.0,78.0,Sedang,Tinggi,Tidak,6.0,83.0,Sedang,Ya,0.0,Rendah,Rendah,Negeri,Netral,3.0,Ya,Perguruan Tinggi,Dekat,Laki-Laki,64.0
+19.0,84.0,Sedang,Sedang,Ya,5.0,87.0,Tinggi,Ya,0.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,71.0
+22.0,84.0,Sedang,Sedang,Ya,6.0,92.0,Rendah,Ya,0.0,Sedang,Sedang,Negeri,Netral,5.0,Tidak,SMA,Dekat,Perempuan,69.0
+12.0,93.0,Sedang,Sedang,Ya,9.0,74.0,Rendah,Ya,1.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,Pascasarjana,Sedang,Laki-Laki,67.0
+19.0,77.0,Rendah,Sedang,Tidak,4.0,70.0,Rendah,Ya,1.0,Tinggi,Rendah,Negeri,Netral,3.0,Ya,Perguruan Tinggi,Sedang,Perempuan,65.0
+19.0,71.0,Rendah,Sedang,Tidak,5.0,84.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,68.0
+19.0,71.0,Tinggi,Sedang,Ya,7.0,51.0,Rendah,Tidak,1.0,Tinggi,Sedang,Swasta,Positif,3.0,Tidak,Pascasarjana,Sedang,Laki-Laki,67.0
+11.0,81.0,Sedang,Sedang,Ya,7.0,82.0,Tinggi,Ya,3.0,Sedang,Tinggi,Negeri,Netral,4.0,Tidak,SMA,Dekat,Laki-Laki,67.0
+17.0,78.0,Sedang,Tinggi,Ya,7.0,70.0,Sedang,Tidak,2.0,Rendah,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,66.0
+19.0,78.0,Tinggi,Sedang,Tidak,7.0,73.0,Tinggi,Ya,2.0,Sedang,Sedang,Negeri,Netral,4.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,70.0
+16.0,64.0,Tinggi,Rendah,Ya,5.0,76.0,Sedang,Ya,3.0,Sedang,Tinggi,Swasta,Positif,4.0,Tidak,Pascasarjana,sedang,Laki-Laki,65.0
+23.0,89.0,Rendah,Rendah,Ya,7.0,56.0,Rendah,Ya,4.0,Sedang,Rendah,Swasta,Positif,4.0,Tidak,Pascasarjana,Dekat,Perempuan,69.0
+19.0,69.0,Sedang,Sedang,Ya,7.0,70.0,Rendah,Tidak,1.0,Sedang,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Jauh,Perempuan,65.0
+14.0,68.0,Tinggi,Sedang,Ya,6.0,65.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Netral,3.0,Ya,Perguruan Tinggi,Dekat,Laki-Laki,63.0
+20.0,79.0,Sedang,Sedang,Tidak,5.0,98.0,Rendah,Ya,2.0,Rendah,Tinggi,Swasta,Netral,2.0,Tidak,SMA,Jauh,Perempuan,67.0
+19.0,69.0,Tinggi,Sedang,Ya,6.0,97.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,61.0
+14.0,83.0,Sedang,Rendah,Ya,6.0,82.0,Sedang,Ya,0.0,Sedang,Sedang,Negeri,Positif,2.0,Tidak,SMA,Dekat,Laki-Laki,65.0
+18.0,79.0,Rendah,Tinggi,Ya,8.0,95.0,Sedang,Ya,1.0,Rendah,Rendah,Negeri,Positif,2.0,Tidak,Perguruan Tinggi,Dekat,Perempuan,66.0
+13.0,78.0,Sedang,Tinggi,Ya,8.0,88.0,Tinggi,Ya,0.0,Tinggi,Rendah,Negeri,Netral,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+19.0,81.0,Sedang,Rendah,Ya,5.0,67.0,Sedang,Ya,1.0,Tinggi,Sedang,publik,Negatif,1.0,Tidak,SMA,Dekat,Laki-Laki,69.0
+11.0,68.0,Sedang,Sedang,Ya,6.0,80.0,Sedang,Ya,2.0,Sedang,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Sedang,Perempuan,63.0
+17.0,66.0,Rendah,Tinggi,Tidak,6.0,61.0,Sedang,Ya,1.0,Tinggi,Sedang,Negeri,Positif,6.0,Tidak,Pascasarjana,Dekat,Laki-Laki,65.0
+21.0,95.0,Sedang,Rendah,Tidak,10.0,84.0,Rendah,Ya,0.0,Tinggi,Sedang,publik,Netral,4.0,Ya,SMA,Dekat,Laki-Laki,67.0
+19.0,77.0,Tinggi,Tinggi,Ya,7.0,52.0,Sedang,Ya,2.0,Tinggi,Sedang,publik,Negatif,3.0,Ya,SMA,Dekat,Perempuan,69.0
+11.0,76.0,Rendah,Sedang,Ya,5.0,92.0,Sedang,Ya,4.0,Sedang,Rendah,Negeri,Negatif,3.0,Tidak,Pascasarjana,Dekat,Laki-Laki,65.0
+19.0,61.0,Sedang,Sedang,Tidak,6.0,79.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Sedang,Laki-Laki,65.0
+20.0,80.0,Tinggi,Rendah,Ya,6.0,53.0,Sedang,Ya,0.0,Rendah,Sedang,Negeri,Netral,2.0,Tidak,Perguruan Tinggi,Sedang,Laki-Laki,65.0
+14.0,82.0,Sedang,Tinggi,Ya,8.0,76.0,Rendah,Ya,2.0,Rendah,Tinggi,Negeri,Negatif,5.0,Tidak,Perguruan Tinggi,Jauh,Perempuan,67.0
+23.0,82.0,Rendah,Sedang,Ya,8.0,94.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Negatif,2.0,Ya,SMA,Dekat,Laki-Laki,66.0
+21.0,88.0,Sedang,Tinggi,Ya,7.0,93.0,Sedang,Ya,4.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,72.0
+16.0,67.0,Sedang,Tinggi,Tidak,7.0,89.0,Tinggi,Ya,3.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,66.0
+20.0,70.0,Sedang,Sedang,Ya,7.0,84.0,Rendah,Tidak,2.0,Sedang,Tinggi,Swasta,Netral,4.0,Tidak,Perguruan Tinggi,Jauh,Laki-Laki,65.0
+18.0,92.0,Tinggi,Sedang,Ya,7.0,70.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Positif,3.0,Tidak,SMA,sedang,Laki-Laki,69.0
+21.0,98.0,Sedang,Rendah,Tidak,4.0,57.0,Sedang,Ya,2.0,Tinggi,Rendah,Negeri,Netral,2.0,Tidak,SMA,Dekat,Perempuan,68.0
+24.0,65.0,Sedang,Rendah,Tidak,7.0,64.0,Rendah,Ya,1.0,Tinggi,Sedang,Negeri,Netral,1.0,Tidak,Pascasarjana,Dekat,Laki-Laki,64.0
+19.0,80.0,Rendah,Tinggi,Tidak,6.0,67.0,Sedang,Ya,3.0,Sedang,Sedang,Negeri,Negatif,4.0,Tidak,Perguruan Tinggi,sedang,Perempuan,69.0
+13.0,69.0,Sedang,Rendah,Ya,5.0,68.0,Rendah,Ya,0.0,Tinggi,Sedang,publik,Positif,1.0,Ya,SMA,Sedang,Perempuan,59.0
+19.0,62.0,Tinggi,Sedang,Ya,10.0,78.0,Sedang,Ya,0.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Dekat,Perempuan,68.0
+20.0,73.0,Sedang,Sedang,Tidak,7.0,60.0,Sedang,Tidak,0.0,Tinggi,Sedang,Swasta,Netral,3.0,Tidak,SMA,Dekat,Perempuan,60.0
+19.0,66.0,Sedang,Tinggi,Tidak,7.0,59.0,Sedang,Ya,1.0,Tinggi,Sedang,publik,Negatif,3.0,Tidak,SMA,Jauh,Laki-Laki,62.0
+24.0,88.0,Rendah,Sedang,Ya,6.0,86.0,Rendah,Ya,0.0,Rendah,Rendah,Negeri,Negatif,3.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,67.0
+22.0,81.0,Rendah,Tinggi,Ya,8.0,50.0,Tinggi,Ya,4.0,Sedang,Sedang,Swasta,Positif,5.0,Tidak,SMA,Jauh,Perempuan,67.0
+16.0,79.0,Sedang,Tinggi,Ya,5.0,57.0,Tinggi,Ya,3.0,Sedang,Sedang,publik,Positif,3.0,Tidak,SMA,sedang,Perempuan,64.0
+19.0,60.0,Sedang,Tinggi,Ya,7.0,72.0,Tinggi,Ya,3.0,Rendah,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Sedang,Perempuan,65.0
+17.0,92.0,Rendah,Sedang,Ya,6.0,57.0,Sedang,Ya,2.0,Sedang,Sedang,Swasta,Positif,2.0,Ya,SMA,Sedang,Perempuan,65.0
+16.0,67.0,Tinggi,Sedang,Tidak,8.0,98.0,Sedang,Ya,0.0,Rendah,Rendah,publik,Netral,3.0,Tidak,SMA,Dekat,Perempuan,63.0
+19.0,84.0,Sedang,Rendah,Ya,7.0,84.0,Rendah,Ya,2.0,Sedang,Tinggi,Negeri,Positif,3.0,Tidak,SMA,Dekat,Laki-Laki,70.0
+22.0,73.0,Rendah,Sedang,Ya,9.0,72.0,Rendah,Ya,3.0,Sedang,Sedang,publik,Positif,3.0,Tidak,SMA,Dekat,Perempuan,66.0
+16.0,83.0,Sedang,Tinggi,Ya,7.0,56.0,Rendah,Ya,4.0,Tinggi,Sedang,Negeri,Positif,3.0,Tidak,SMA,Dekat,Perempuan,68.0
+19.0,73.0,Rendah,Rendah,Ya,8.0,69.0,Sedang,Ya,3.0,Sedang,Sedang,Swasta,Positif,3.0,Tidak,SMA,Dekat,Perempuan,66.0
+20.0,63.0,Rendah,Rendah,Tidak,8.0,83.0,Sedang,Ya,3.0,Sedang,Sedang,Swasta,Negatif,1.0,Tidak,Perguruan Tinggi,Dekat,Laki-Laki,63.0
+19.0,69.0,Tinggi,Sedang,Ya,9.0,98.0,Sedang,Ya,1.0,Rendah,Sedang,Negeri,Negatif,3.0,Ya,Perguruan Tinggi,Sedang,Perempuan,66.0
+24.0,68.0,Sedang,Sedang,Ya,6.0,74.0,Sedang,Ya,1.0,Sedang,Sedang,Negeri,Netral,3.0,Tidak,SMA,Dekat,Perempuan,67.0
